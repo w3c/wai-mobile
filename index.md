@@ -1,6 +1,6 @@
 ---
 title: Mobile Accessibility at W3C
-permalink: /standards/mobile-accessibility/
+permalink: /standards-guidelines/mobile/
 layout: default
 ---
 
