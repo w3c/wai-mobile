@@ -74,7 +74,7 @@ It address a wide range of issues, including:
         accessibility. We expect to complete it in 2018. The in-progress
         Working Draft is available: [WCAG 2.1 Working
         Draft](https://www.w3.org/TR/WCAG21/)
--   **[UAAG](http://www.w3.org/WAI/intro/uaag.php)** (User Agent
+-   **[UAAG]({{ "/standards-guidelines/uaag/" | relative_url }})** (User Agent
     Accessibility Guidelines) covers web browsers and other 'user
     agents', including mobile browsers.
     -   For examples of how web browsers that follow UAAG benefit people
@@ -84,7 +84,7 @@ It address a wide range of issues, including:
     -   For those wanting to explore the issues more, see [Applying UAAG
         to Mobile
         Phones](http://www.w3.org/WAI/UA/work/wiki/Applying_UAAG_to_Mobile_Phones).
--   **[ATAG](http://www.w3.org/WAI/intro/atag.php)** (Authoring Tool
+-   **[ATAG]({{ "/standards-guidelines/atag/" | relative_url }})** (Authoring Tool
     Accessibility Guidelines) covers software used to create web pages
     and applications, including for mobile.
 -   **[WAI-ARIA](http://www.w3.org/WAI/intro/aria.php)** (Accessible
