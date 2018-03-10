@@ -59,7 +59,7 @@ It address a wide range of issues, including:
 
 **WAI's accessibility standards address mobile accessibility**:
 
--   **[WCAG](http://www.w3.org/WAI/intro/wcag.php)** (Web Content
+-   **[WCAG]({{ "/standards-guidelines/wcag/" | relative_url }})** (Web Content
     Accessibility Guidelines) covers web pages and web applications,
     including content used on mobile devices.
     -   To learn how WCAG 2.0 can be applied to mobile web content,
