@@ -2,6 +2,8 @@
 title: Mobile Accessibility at W3C
 permalink: /standards-guidelines/mobile/
 layout: default
+github:
+  repository: w3c/wai-eo-mobile
 ---
 
 {::options toc_levels="2,3" /}
