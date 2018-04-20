@@ -6,20 +6,9 @@ github:
   repository: w3c/wai-eo-mobile
 ---
 
-{::options toc_levels="2,3" /}
-
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" %}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
-
--   TOC is created automatically.
-{:toc}
-
-{::nomarkdown}
-{% include_cached toc.html type="end" %}
-{:/}
-
-## Summary
 
 -   **Mobile accessibility is covered in existing W3C WAI accessibility
     standards/guidelines**. There are not separate guidelines for mobile
@@ -32,6 +21,24 @@ github:
         Apply to
         Mobile](http://www.w3.org/TR/mobile-accessibility-mapping/)
     -   New WCAG 2.1 Success Criteria and Techniques
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
+
+{::options toc_levels="2" /}
+
+{::nomarkdown}
+{% include_cached toc.html type="start" title="Page Contents" %}
+{:/}
+
+-   TOC is created automatically.
+{:toc}
+
+{::nomarkdown}
+{% include_cached toc.html type="end" %}
+{:/}
 
 ## More than "Mobile" {#intro}
 
