@@ -4,6 +4,7 @@ permalink: /standards-guidelines/mobile/
 layout: default
 github:
   repository: w3c/wai-eo-mobile
+feedbackmail: wai@w3.org
 footer: >
   <p><strong>Date:</strong> Updated October 2017. First published January 2008.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
