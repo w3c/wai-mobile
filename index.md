@@ -144,7 +144,7 @@ Force](https://www.w3.org/WAI/GL/mobile-a11y-tf/). If you would like to
 be more involved in WAI's work on mobile accessibility, please send an
 e-mail with information about your interests and time availability to
 the Task Force facilitators [Kathy Wahlbin and Kim
-Patch](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry).
+Patch](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com,shadi@w3.org?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry).
 
 ## About W3C and WAI {#about}
 
