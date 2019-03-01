@@ -26,7 +26,7 @@ footer: >
         Apply to
         Mobile](http://www.w3.org/TR/mobile-accessibility-mapping/)
     -   WCAG 2.1 Success Criteria and Techniques
-    -   Future accessibility standards
+    -   Integrating mobile accessibility in future W3C standards
 
 {::nomarkdown}
 {% include box.html type="end" %}
