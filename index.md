@@ -6,10 +6,9 @@ github:
   repository: w3c/wai-eo-mobile
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated October 2017. First published January 2008.</p>
+  <p><strong>Date:</strong> Updated 1 March 2019. First published January 2008.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
-  
 ---
 
 {::nomarkdown}
@@ -26,7 +25,8 @@ footer: >
     -   [Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines
         Apply to
         Mobile](http://www.w3.org/TR/mobile-accessibility-mapping/)
-    -   New WCAG 2.1 Success Criteria and Techniques
+    -   WCAG 2.1 Success Criteria and Techniques
+    -   Future accessibility standards
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -58,14 +58,14 @@ web, including:
 -   digital TVs
 -   wearables such as smart watches
 -   devices in car dashboards and airplace seatbacks
--   devices in household appliances and other "Internet of Things"
--   and more
+-   devices in household appliances
+-   other "Internet of Things"
 
-It address a wide range of issues, including:
+It address a wide range of issues:
 
 -   touchscreens
 -   small screen sizes
--   different input modalities, including voice and 3D touch enabled by
+-   different input modalities, including speech and 3D touch enabled by
     pressure sensors
 -   device use in a different settings, such as bright sunlight
 -   and more
@@ -74,23 +74,19 @@ It address a wide range of issues, including:
 
 **WAI's accessibility standards address mobile accessibility**:
 
--   **[WCAG]({{ "/standards-guidelines/wcag/" | relative_url }})** (Web Content
-    Accessibility Guidelines) covers web pages and web applications,
+-   **Web Content** Accessibility Guidelines ([WCAG]({{ "/standards-guidelines/wcag/" | relative_url }})) covers web pages and web applications,
     including content used on mobile devices.
     -   To learn how WCAG 2.0 can be applied to mobile web content,
         mobile web apps, native apps, and hybrid apps using web
-        components inside native apps, see [**Mobile Accessibility: How
+        components inside native apps, see [Mobile Accessibility: How
         WCAG 2.0 and Other W3C/WAI Guidelines Apply to
-        Mobile**](http://www.w3.org/TR/mobile-accessibility-mapping/).
+        Mobile](http://www.w3.org/TR/mobile-accessibility-mapping/).
     -   A more general resource that also includes mobile apps is
         [WCAG2ICT: Applying WCAG 2.0 to Non-Web Information and
         Communications Technologies](http://www.w3.org/TR/wcag2ict/).
-    -   WCAG 2.1 will have additional requirements related to mobile
-        accessibility. We expect to complete it in 2018. The in-progress
-        Working Draft is available: [WCAG 2.1 Working
-        Draft](https://www.w3.org/TR/WCAG21/)
--   **[UAAG]({{ "/standards-guidelines/uaag/" | relative_url }})** (User Agent
-    Accessibility Guidelines) covers web browsers and other 'user
+    -   WCAG 2.1, published in June 2018, includes new requirements ("success criteria") addressing mobile accessibility. They are introduced in [What’s New in WCAG 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/).
+-   **User Agent**
+    Accessibility Guidelines ([UAAG]({{ "/standards-guidelines/uaag/" | relative_url }})) covers web browsers and other 'user
     agents', including mobile browsers.
     -   For examples of how web browsers that follow UAAG benefit people
         with disabilities using the Web on mobile devices, see [Mobile
@@ -99,8 +95,8 @@ It address a wide range of issues, including:
     -   For those wanting to explore the issues more, see [Applying UAAG
         to Mobile
         Phones](http://www.w3.org/WAI/UA/work/wiki/Applying_UAAG_to_Mobile_Phones).
--   **[ATAG]({{ "/standards-guidelines/atag/" | relative_url }})** (Authoring Tool
-    Accessibility Guidelines) covers software used to create web pages
+-   **Authoring Tool**
+    Accessibility Guideline ([ATAG]({{ "/standards-guidelines/atag/" | relative_url }})) covers software used to create web pages
     and applications, including for mobile.
 -   **[WAI-ARIA](http://www.w3.org/WAI/intro/aria.php)** (Accessible
     Rich Internet Applications) defines ways to make web content more
@@ -110,7 +106,7 @@ It address a wide range of issues, including:
 
 WAI's Education and Outreach Working Group (EOWG) is developing a
 **Mobile Accessbility Introduction** with guidance for designers and
-developers. We expect it to be completed in late 2018.
+developers. We expect it to be completed in late 2019.
 
 **W3C addresses mobile accessibility.** WAI ensures that the core W3C
 technologies support accessibility, including those that are essential
@@ -130,8 +126,8 @@ Mobile](http://www.w3.org/Mobile/mobile-web-app-state/).
 ## Get Updates {#updates}
 
 If you would like to get notification of future work on mobile
-accessibility at W3C WAI, see [Getting WAI
-Announcements](http://www.w3.org/WAI/about/announcements).
+accessibility at W3C WAI, see [Get WAI
+News](https://www.w3.org/WAI/news/subscribe/).
 
 ## Get Involved {#involved}
 
@@ -143,8 +139,8 @@ Most of WAI's work related to mobile accessibility is through the
 Force](https://www.w3.org/WAI/GL/mobile-a11y-tf/). If you would like to
 be more involved in WAI's work on mobile accessibility, please send an
 e-mail with information about your interests and time availability to
-the Task Force facilitators [Kathy Wahlbin and Kim
-Patch](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry) with CC to WAI Staff (wai@w3.org).
+the Task Force facilitators [Kim
+Patch and Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry) with CC to WAI Staff (wai@w3.org).
 
 ## About W3C and WAI {#about}
 
