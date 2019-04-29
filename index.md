@@ -105,7 +105,7 @@ It address a wide range of issues:
     with mobile devices.
 
 WAI's Education and Outreach Working Group (EOWG) is developing a
-**Mobile Accessbility Introduction** with guidance for designers and
+**Mobile Accessibility Introduction** with guidance for designers and
 developers. We expect it to be completed in late 2019.
 
 **W3C addresses mobile accessibility.** WAI ensures that the core W3C
