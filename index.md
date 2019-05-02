@@ -57,7 +57,7 @@ web, including:
 -   phones and tablets
 -   digital TVs
 -   wearables such as smart watches
--   devices in car dashboards and airplace seatbacks
+-   devices in car dashboards and airplane seatbacks
 -   devices in household appliances
 -   other "Internet of Things"
 
@@ -115,9 +115,8 @@ Accessible Platform Architectures Working Group
 ([APA](https://www.w3.org/WAI/APA/)).
 
 W3C work on mobile includes [Mobile Web Application Best
-Practices](http://www.w3.org/TR/mwabp/), [Mobile Web Best
-Practices](http://www.w3.org/TR/mobile-bp/), and [mobileOK
-Checker](http://validator.w3.org/mobile/). For a summary of technologies
+Practices](http://www.w3.org/TR/mwabp/) and [Mobile Web Best
+Practices](http://www.w3.org/TR/mobile-bp/). For a summary of technologies
 developed in W3C that increase the capabilities of web applications and
 how they apply specifically to the mobile context, see [Standards for
 Web Applications on
