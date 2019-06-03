@@ -1,14 +1,25 @@
 ---
-title: Mobile Accessibility at W3C
+# Translation info https://www.w3.org/wiki/WAI/Website/Translate
+
+title: "Mobile Accessibility at W3C"
+nav_title: "Mobile Accessibility at W3C"
+
+description: 
+
+lang: en
+last_updated: 2019-03-01
 permalink: /standards-guidelines/mobile/
-layout: default
+
 github:
-  repository: w3c/wai-eo-mobile
+  repository: w3c/wai-mobile
+  path: index.md
+
 feedbackmail: wai@w3.org
 footer: >
   <p><strong>Date:</strong> Updated 1 March 2019. First published January 2008.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+ref: /standards-guidelines/mobile/
 ---
 
 {::nomarkdown}

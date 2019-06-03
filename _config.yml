@@ -10,7 +10,7 @@ title: "Web Accessibility Initiative (WAI)"
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   The Website of the World Wide Web Consortium’s Web Accessibility Initiative.
-baseurl: "/wai-eo-mobile" # the subpath of your site, e.g. /blog
+baseurl: "/wai-mobile" # the subpath of your site, e.g. /blog
 url: "https://w3c.github.io" # the base hostname & protocol for your site
 twitter:
   username: w3c_wai
@@ -29,7 +29,7 @@ kramwdown:
   input: GFM
   syntax_highlighter: rouge
 highlighter: rouge
-repository: w3c/wai-components
+repository: w3c/wai-mobile
 
 ytkey: AIzaSyCiZ9uToWu9jb7BTx47NtzCvmGGXKXp8nI
 
@@ -38,6 +38,11 @@ remote_theme: w3c/wai-website-theme
 collections:
 
 defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
 
 
 plugins:
@@ -46,3 +51,4 @@ plugins:
   - jekyll-redirect-from
   - jekyll-include-cache
   - jekyll-remote-theme
+  - wai-website-plugin
