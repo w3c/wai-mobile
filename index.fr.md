@@ -16,14 +16,14 @@ github:
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated 1 March 2019. First published January 2008.</p>
-  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
+  <p><strong>Date:</strong> Mis à jour le 1er Mars 2019. Première publication en janvier 2008.</p>
+  <p><strong>Éditeur:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributrice: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Summary" class="full" %}
+{% include box.html type="start" h="2" title="Résumé" class="full" %}
 {:/}
 
 -   **Mobile accessibility is covered in existing W3C WAI accessibility standards/guidelines**. There are not separate guidelines for mobile accessibility.
@@ -41,7 +41,7 @@ ref: /standards-guidelines/mobile/
 {::options toc_levels="2" /}
 
 {::nomarkdown}
-{% include_cached toc.html type="start" title="Page Contents" %}
+{% include_cached toc.html type="start" title="Contenu de la page" %}
 {:/}
 
 -   TOC is created automatically.
