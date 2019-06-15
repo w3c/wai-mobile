@@ -18,7 +18,7 @@ feedbackmail: wai@w3.org
 footer: >
   <p><strong>Date:</strong> Mis à jour le 1er Mars 2019. Première publication en janvier 2008.</p>
   <p><strong>Éditeur:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributrice: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p>Élaboré avec des contributions du groupe de travail « Éducation et Rayonnement » (Education and Outreach Working Group <a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
 ---
 
