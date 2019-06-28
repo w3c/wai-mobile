@@ -26,8 +26,8 @@ ref: /standards-guidelines/mobile/
 {% include box.html type="start" h="2" title="Sumario" class="full" %}
 {:/}
 
--   **La accesibilidad móvil está cubierta por los estándares/pautas existentes de accesibilidad de W3C WAI**. No existen pautas separadas para la accesibilidad móvil.
--   El W3C está desarrollando requisitos actualizados y más específicas guías de accesibilidad móvil.
+-   **La accesibilidad móvil está cubierta por los estándares/pautas de accesibilidad existentes de la Iniciativa de Accesibilidad Web (WAI) del W3C**. No existen pautas separadas para la accesibilidad móvil.
+-   El W3C está desarrollando requisitos actualizados y guías de accesibilidad móvil más específicas.
 -   **El resultado del [Grupo de Trabajo de Accesibilidad Móvil](https://www.w3.org/WAI/GL/mobile-a11y-tf/) de la WAI incluye:**
     -   [Accesibilidad Móvil: Cómo las WCAG 2.0 y otras pautas del W3C/WAI se aplican al entorno Móvil](http://www.w3.org/TR/mobile-accessibility-mapping/)
     -   Criterios de Éxito y Técnicas WCAG 2.1
@@ -62,7 +62,7 @@ La "accesibilidad móvil" se refiere a hacer los sitios web y aplicaciones más 
 -   dispositivos en electrodomésticos
 -   "Internet de las cosas"
 
-Tsmbién considera una amplia gama de cuestiones:
+También considera una amplia gama de cuestiones:
 
 -   pantallas táctiles
 -   pantallas de reducidas dimensiones
@@ -70,21 +70,21 @@ Tsmbién considera una amplia gama de cuestiones:
 -   dispositivos afectados por el uso dependiente de diferentes entornos, como con el brillo del sol
 -   y más
 
-## W3C WAI Considera la Accesibilidad Móvil {#covered}
+## WAI del W3C Considera la Accesibilidad Móvil {#covered}
 
 **Los estándares de accesibilidad WAI consideran la accesibilidad móvil**:
 
 -   Las Pautas de Accesibilidad del **Contenido Web** ([WCAG](/standards-guidelines/wcag/)) consideran páginas y aplicaciones web, incluyendo el contenido utilizado en dispositivos móviles.
     -   Para aprender cómo las WCAG 2.0 pueden aplicarse al contenido web móvil, aplicaciones web móviles, aplicaciones nativas e híbridas utilizando componentes dentro de las aplicaciones nativas, acceda a [Accesibilidad Móvil: Cómo las WCAG 2.0 y Otras Pautas W3C/WAI Aplican al entorno Móvil](http://www.w3.org/TR/mobile-accessibility-mapping/).
     -   [WCAG2ICT: Aplicar WCAG 2.0 a Información No-Web y Comunicaciones Tecnológicas](http://www.w3.org/TR/wcag2ict/) es otro recurso más general que también incluye aplicaciones móviles.
-    -   Las WCAG 2.1, publicadas en junio de 2018, incluyen nuevos requisitos ("criterios de éxito") que tienen en consideración la accesibilidad móvil. Se introducen en [[Novedades de las WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).
+    -   Las WCAG 2.1, publicadas en junio de 2018, incluyen nuevos requisitos ("criterios de éxito") que tienen en consideración la accesibilidad móvil. Se presentan en [[Novedades de las WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).
 -   Las Pautas de Accesibilidad de **Agente de Usuario**  ([UAAG](/standards-guidelines/uaag/)) cubren los navegadores web (incluyendo navegadores móviles) y otros "agentes de usuario".
     -   Para conocer ejemplos de cómo los navegadores web que respetan las UAAG benefician a personas con discapacidad que acceden a la Web utilizando dispositivos móviles, acceda a [Ejemplos de Accesibilidad Móvil de UAAG](http://www.w3.org/TR/IMPLEMENTING-UAAG20/mobile).
-    -   Para explorar más sobre los puntos críticos, acceda [Aplicar las UAAG a Teléfonos Móviles](http://www.w3.org/WAI/UA/work/wiki/Applying_UAAG_to_Mobile_Phones).
+    -   Para explorar más sobre los puntos críticos, acceda a [Aplicar las UAAG a Teléfonos Móviles](http://www.w3.org/WAI/UA/work/wiki/Applying_UAAG_to_Mobile_Phones).
 -   Las Pautas de Accesibilidad de **Herramientas de Autor** ([ATAG](/standards-guidelines/atag/)) cubren el software utilizado para crear páginas web y aplicaciones, incluyendo para móviles.
 -   **[WAI-ARIA](/standards-guidelines/aria/)** (Aplicaciones de Internet Enriquecidas Accesibles) define las maneras de hacer el contenido web más accesible, especialmente el contenido dinámico y los controles avanzados de la interfaz. Se aplican al acceso a sitios web y aplicaciones web con dispositivos móviles.
 
-Grupo de Trabajo de Educación y Divulgación de la WAI (EOWG) está desarrollando la **Introducción a la Accesibilidad Móvil** con guías para diseñadores y desarrolladores. Está previsto que se complete a finales del 2019.
+El Grupo de Trabajo de Educación y Divulgación de la WAI (EOWG) está desarrollando la **Introducción a la Accesibilidad Móvil** con guías para diseñadores y desarrolladores. Está previsto que se complete a finales del 2019.
 
 **El W3C considera la accesibilidad móvil.** La WAI asegura que la base de las tecnologías W3C den soporte a la accesibilidad, incluyendo aquellas que son esenciales para la web móvil. Todo el trabajo del W3C es revisado por el Grupo de Trabajo de Arquitecturas de Plataforma Accesible de WAI ([APA](https://www.w3.org/WAI/APA/)).
 
