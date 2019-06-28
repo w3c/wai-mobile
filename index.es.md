@@ -10,6 +10,12 @@ lang: es
 last_updated: 2019-06-27
 permalink: /standards-guidelines/mobile/es
 
+translators:
+- name: "Jorge Rumoroso"
+  link: "https://twitter.com/rumoroso"
+# contributors: #Add one -name: line for every contributor
+# - name: "Contributor Name Here"
+
 github:
   repository: w3c/wai-mobile
   path: index.es.md
