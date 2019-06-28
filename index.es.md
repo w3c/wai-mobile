@@ -13,8 +13,8 @@ permalink: /standards-guidelines/mobile/es
 translators:
 - name: "Jorge Rumoroso"
   link: "https://twitter.com/rumoroso"
-# contributors: #Add one -name: line for every contributor
-# - name: "Contributor Name Here"
+contributors:
+- name: "Martín Álvarez-Espinar (CTIC)"
 
 github:
   repository: w3c/wai-mobile
