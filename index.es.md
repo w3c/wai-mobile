@@ -23,7 +23,7 @@ github:
 feedbackmail: wai@w3.org
 footer: >
   <p><strong>Fecha:</strong> Actualizado el 1 de Mayo de 2019. Primera publicación en Enero de 2008.</p>
-  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Colaborador: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
+  <p><strong>Editora:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Colaboradora: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Divulgación (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
 ---
