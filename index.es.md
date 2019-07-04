@@ -29,7 +29,7 @@ ref: /standards-guidelines/mobile/
 ---
 
 {::nomarkdown}
-{% include box.html type="start" h="2" title="Sumario" class="full" %}
+{% include box.html type="start" h="2" title="Resumen" class="full" %}
 {:/}
 
 -   **La accesibilidad móvil está cubierta por los estándares/pautas de accesibilidad existentes de la Iniciativa de Accesibilidad Web (WAI) del W3C**. No existen pautas separadas para la accesibilidad móvil.
