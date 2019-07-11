@@ -1,19 +1,3 @@
-[file up-to-date as of 9 July 2019]]
-For translators:
- 
-The published version of the English page is at:
-https://www.w3.org/WAI/standards-guidelines/mobile/
- 
-On this page:
-●	Text to translate or change is highlighted in pale orange.
-●	Instructions on what to change is highlighted in pink – most changes are before the highlight, a few are after.
-Most links are formatted with single or double brackets and parentheses; for example:
-	[text that is linked](/path/filename/)
-	[[Title of WAI Page]](/path/filename/)
-Make sure to:
-●	Keep these together, with no space between the closing ] and the opening (
-●	Keep double [[ or single brackets [ as they are
-
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 
