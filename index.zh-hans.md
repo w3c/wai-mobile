@@ -7,8 +7,8 @@ nav_title: "W3C 移动端无障碍"
 description: 
 
 lang: zh-hans
-last_updated: 2019-03-01
-permalink: /standards-guidelines/mobile/
+last_updated: 2019-07-12
+permalink: /standards-guidelines/mobile/zh-hans
 
 translators:
 - name: "李喆明"
@@ -21,9 +21,9 @@ github:
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated 1 March 2019. First published January 2008.</p>
-  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p><strong>日期：</strong>更新于2019年3月1日。第一版发布于2018年1月。</p>
+  <p><strong>编者：</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. 贡献者： <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
+  <p>由教育及外展工作组 (<a href="http://www.w3.org/WAI/EO/">EOWG</a>)开发。</p>
 ref: /standards-guidelines/mobile/
 ---
 
@@ -78,19 +78,19 @@ ref: /standards-guidelines/mobile/
 
 **WAI 无障碍规范解决移动端无障碍问题**：
 
-- **Web 内容**无障碍规范 ([WCAG](/standards-guidelines/wcag/)) 涵盖了 Web 页面和 Web 应用等大部分移动端设备上的内容。
+- **Web 内容**无障碍指南 ([WCAG](/standards-guidelines/wcag/)) 涵盖了 Web 页面和 Web 应用等大部分移动端设备上的内容。
     - 如果想要了解移动端 Web 内容，移动端 Web 应用以及客户端应用和基于客户端应用内嵌 Web 组件的混合应用中如何实现 WCAG 2.0 规范，可以查看 [移动端无障碍：Web 内容无障碍规范 2.0 和其它 W3C/WAI 规范在移动端如何应用](http://www.w3.org/TR/mobile-accessibility-mapping/)。
     - [WCAG2ICT：非 Web 信息和通信基于上 WCAG 2.0 规范的应用](http://www.w3.org/TR/wcag2ict/)。
-    - WCAG 2.1 规范发布于2018年6月，包含新的要求（“成功标准”）解决移动端无障碍问题。[[WCAG 2.1 中有什么新内容]](/standards-guidelines/wcag/new-in-21/)中有详细介绍。
+    - WCAG 2.1 指南发布于2018年6月，包含新的要求（“成功标准”）解决移动端无障碍问题。[[WCAG 2.1 中有什么新内容]](/standards-guidelines/wcag/new-in-21/)中有详细介绍。
 - **用户终端**无障碍规范（[UAAG](/standards-guidelines/uaag/)）涵盖了 Web 浏览器和其它“用户终端”，包括移动端浏览器。
     - 关于 Web 浏览器如何遵循 UAAG 规范让残障人士在移动端设备上访问 Web，可以访问[ UAAG 规范移动端无障碍示例](http://www.w3.org/TR/IMPLEMENTING-UAAG20/mobile)查看。
     - 如果想要翻阅更多相关的资料，可以查看 [移动电话上 UAAG 规范的应用](http://www.w3.org/WAI/UA/work/wiki/Applying_UAAG_to_Mobile_Phones)。
 - **创作工具**无障碍规范([ATAG](/standards-guidelines/atag)) 涵盖了为终端，包括移动端，创建网页和应用的软件。
-- **[WAI-ARIA](/standards-guidelines/aria/)** （无障碍富互联网应用）定义了让 Web 内容无障碍的方法，特别是动态内容以及用户交互控制等操作。它同时适用于移动端设备无障碍 Web 网站和应用。
+- **[WAI-ARIA](/standards-guidelines/aria/)**（无障碍富互联网应用）定义了让Web内容无障碍的方法，特别是动态内容以及用户交互控制等操作。它同时适用于移动端设备无障碍 Web 网站和应用。
 
-WAI 教育及外展工作小组（EOWG）为设计师和开发人员发布了 **移动端无障碍简介** 规范引导。我们希望在 2019 年末能完成它。
+WAI 教育及外展工作组（EOWG）为设计师和开发人员发布了 **移动端无障碍简介** 规范引导。我们希望在 2019 年末能完成它。
 
-**W3C 解决移动端无障碍。**  WAI 工作组会确保所有 W3C 核心技术规范对无障碍的支持，包括它们在移动端 Web 中的应用。所有的 W3C 规范会经过 WAI 无障碍平台架构工作组（[APA](https://www.w3.org/WAI/APA/)）的审查。
+**W3C 解决移动端无障碍。**WAI 工作组会确保所有 W3C 核心技术规范对无障碍的支持，包括它们在移动端 Web 中的应用。所有的 W3C 规范会经过 WAI 无障碍平台架构工作组（[APA](https://www.w3.org/WAI/APA/)）的审查。
 
 W3C 移动端工作内容包括[移动端应用最佳实践](http://www.w3.org/TR/mwabp/)以及[移动端 Web 最佳实践](http://www.w3.org/TR/mobile-bp/)。关于 W3C 开发的增强 Web 应用程序功能简介以及他们如何应用于移动端中，可以查阅[移动端 Web 应用标准](http://www.w3.org/Mobile/mobile-web-app-state/) 了解更多。
 
