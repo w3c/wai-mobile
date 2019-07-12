@@ -12,8 +12,7 @@ permalink: /standards-guidelines/mobile/zh-hans
 
 translators:
 - name: "李喆明"
-  link: "https://imnerd.org/"
-
+  link: "https://imnerd.org/about.html"
 
 github:
   repository: w3c/wai-mobile
