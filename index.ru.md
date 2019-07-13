@@ -12,7 +12,7 @@ translators:
   link: https://iite.unesco.org/
 
 lang: ru
-last_updated: 2019-07-11
+last_updated: 2019-07-12
 permalink: /standards-guidelines/mobile/ru
 
 github:
