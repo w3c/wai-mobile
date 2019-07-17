@@ -85,7 +85,7 @@ ref: /standards-guidelines/mobile/
 - **用户终端**无障碍规范（[UAAG](/standards-guidelines/uaag/)）涵盖了 Web 浏览器和其它“用户终端”，包括移动端浏览器。
     - 关于 Web 浏览器如何遵循 UAAG 规范让残障人士在移动端设备上访问 Web，可以访问[ UAAG 规范移动端无障碍示例](http://www.w3.org/TR/IMPLEMENTING-UAAG20/mobile)查看。
     - 如果想要翻阅更多相关的资料，可以查看 [移动电话上 UAAG 规范的应用](http://www.w3.org/WAI/UA/work/wiki/Applying_UAAG_to_Mobile_Phones)。
-- **创作工具**无障碍规范([ATAG](/standards-guidelines/atag)) 涵盖了为终端，包括移动端，创建网页和应用的软件。
+- **创作工具**无障碍规范([ATAG](/standards-guidelines/atag/)) 涵盖了为终端，包括移动端，创建网页和应用的软件。
 - **[WAI-ARIA](/standards-guidelines/aria/)**（无障碍富互联网应用）定义了让Web内容无障碍的方法，特别是动态内容以及用户交互控制等操作。它同时适用于移动端设备无障碍 Web 网站和应用。
 
 WAI 教育及外展工作组（EOWG）为设计师和开发人员发布了 **移动端无障碍简介** 规范引导。我们希望在 2019 年末能完成它。
@@ -96,7 +96,7 @@ W3C 移动端工作内容包括[移动端应用最佳实践](http://www.w3.org/T
 
 ## 订阅更新 {#updates}
 
-如果你想到实时了解 W3C WAI 规范之后在移动端无障碍上的工作内容，可以订阅 [[获取 WAI 新闻]](/news/subscribe) 获取实时通知。
+如果你想到实时了解 W3C WAI 规范之后在移动端无障碍上的工作内容，可以订阅 [[获取 WAI 新闻]](/news/subscribe/) 获取实时通知。
 
 ## 加入我们 {#involved}
 
