@@ -30,7 +30,7 @@ ref: /standards-guidelines/mobile/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
-- 移动端无障碍没有单独的规范引导，**它包含在 W3C WAI 无障碍规范/引导中**。
+- 移动端无障碍没有单独的规范引导，**它包含在 W3C Web无障碍推进（WAI）的无障碍规范/引导中**。
 - W3C正在开发更新的需求和更具体的移动无障碍指南。
 - **WAI 的[移动端无障碍工作组](https://www.w3.org/WAI/GL/mobile-a11y-tf/)有以下几个：**
     - [移动端无障碍：Web 内容无障碍规范 2.0 和其它 W3C/WAI 规范在移动端如何应用](http://www.w3.org/TR/mobile-accessibility-mapping/)
@@ -57,7 +57,7 @@ ref: /standards-guidelines/mobile/
 
 ## 不仅仅是“移动端” {#intro}
 
-“移动端无障碍”的目的是让残障人士在移动端或者其它设备访问网站或者应用时能够更加流畅不受阻碍。WAI 工作组的任务是解决这群人在各种不同的设备上访问 Web 时的无障碍问题，包括：
+“移动端无障碍”的目的是让残障人士在移动端或者其它设备访问网站或者应用时能够更加流畅不受阻碍。Web 无障碍推进（WAI）的任务是解决这群人在各种不同的设备上访问 Web 时的无障碍问题，包括：
 
 - 手机和平板
 - 多媒体电视
@@ -100,12 +100,12 @@ W3C 移动端工作内容包括[移动端应用最佳实践](http://www.w3.org/T
 
 ## 加入我们 {#involved}
 
-首先可以上 [加入 WAI 工作组](/about/;articipating/) 了解一些基础信息。
+首先可以 [加入 WAI](/about/;articipating/) 了解一些基础信息。
 
-大部分 WAI 中和移动端无障碍的工作通过[移动端无障碍工作组](https://www.w3.org/WAI/GL/mobile-a11y-tf/)发布。如果你想要加入到 WAI 小组中参与更多的移动端无障碍规范的话，请将您的一些基本信息例如个人兴趣以及可用时间等邮件发送给工作组协调员 [Kim Patch 和 Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry) 同时抄送给 WAI 工作组成员 (wai@w3.org)。
+大部分 WAI 中和移动端无障碍的工作通过[移动端无障碍特别任务团](https://www.w3.org/WAI/GL/mobile-a11y-tf/)发布。如果你想要加入到 WAI 小组中参与更多的移动端无障碍规范的话，请将您的一些基本信息例如个人兴趣以及可用时间等邮件发送给工作组协调员 [Kim Patch 和 Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry) 同时抄送给 WAI 工作组成员 (wai@w3.org)。
 
 ## 关于 W3C 和 WAI {#about}
 
 万维网联盟（W3C）是一个国际联盟，其成员组织、全职工作人员和公众共同开发 Web 标准。W3C 的目标是通过创建 Web 标准规范来确保 Web 长期增长。[关于 W3C](http://www.w3.org/Consortium/) 可以查看更多。
 
-W3C Web 无障碍规范（WAI）组织世界各地的人们和组织共同定义策略、起草规范、提供资源用来帮助残障人士解决 Web 无障碍访问问题。访问 [WAI](http://www.w3.org/WAI/) 可以了解更多 WAI 的内容。
+W3C Web 无障碍推进（WAI）是组织世界各地的人们和组织共同定义策略、起草规范、提供资源用来帮助残障人士解决 Web 无障碍访问问题。访问 [WAI](http://www.w3.org/WAI/) 可以了解更多 WAI 的内容。
