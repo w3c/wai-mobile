@@ -7,9 +7,10 @@ nav_title: "Решения консорциума W3C по обеспечени�
 description:
 
 translators:
-- name: "ИИТО ЮНЕСКО"   # Replace @@ with translator name
+- name: "Elena Varkvasova"
 - name: "UNESCO IITE"
   link: https://iite.unesco.org/
+- name: "ИИТО ЮНЕСКО"
 
 lang: ru
 last_updated: 2019-07-12
