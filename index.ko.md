@@ -58,41 +58,40 @@ ref: /standards-guidelines/mobile/
 {% include_cached toc.html type="end" %}
 {:/}
 
-## More than "Mobile" {#intro}
+## "모바일" 이상으로 {#intro}
 
-"Mobile accessibility" refers to making websites and applications more accessible to people with disabilities when they are using mobile phones and other devices. WAI's work in this area addresses accessibility issues of people using a broad range of devices to interact with the web, including:
+"모바일 접근성"은 장애가 있는 사용자가 모바일 폰이나 다른 장치들에서 더 접근 가능한 어플리케이션이나 웹 사이트를 만드는 것을 가리킵니다. 이 영역에서 WAI의 일은 웹과 상호작용하기 위해 다양한 장치를 사용하는 사람들의 접근성 문제를 다루는 것입니다. 다음의 장치를 포함합니다. :
 
--   phones and tablets
--   digital TVs
--   wearables such as smart watches
--   devices in car dashboards and airplane seatbacks
--   devices in household appliances
--   other "Internet of Things"
+-   모바일 폰이나 태블릿
+-   디지털 TV
+-   스마트워치 같은 웨어러블 기기
+-   자동차 계기판이나 비행기 좌석 뒷편의 장치
+-   가전제품 장치
+-   다른 "IoT(사물 인터넷)"
 
-It address a wide range of issues:
+다양한 이슈들을 다룹니다. :
 
--   touchscreens
--   small screen sizes
--   different input modalities, including speech and 3D touch enabled by
-    pressure sensors
--   device use in a different settings, such as bright sunlight
--   and more
+-   터치스크린
+-   작은 스크린 크기
+-   압력 센서로 동작하는 3D 터치와 음성과 같은 다양한 입력 장치
+-   밝은 햇빛 아래 같은 다양한 상황속 기기 사용
+-   등등
 
-## W3C WAI Addresses Mobile Accessibility {#covered}
+## W3C WAI가 다루는 모바일 접근성 {#covered}
 
-**WAI's accessibility standards address mobile accessibility**:
+**WAI의 접근성 표준들은 모바일 접근성을 다룹니다.**:
 
--   **Web Content** Accessibility Guidelines ([WCAG](/standards-guidelines/wcag/)) covers web pages and web applications, including content used on mobile devices.
-    -   To learn how WCAG 2.0 can be applied to mobile web content, mobile web apps, native apps, and hybrid apps using web components inside native apps, see [Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile](http://www.w3.org/TR/mobile-accessibility-mapping/).
-    -   A more general resource that also includes mobile apps is [WCAG2ICT: Applying WCAG 2.0 to Non-Web Information and Communications Technologies](http://www.w3.org/TR/wcag2ict/).
-    -   WCAG 2.1, published in June 2018, includes new requirements ("success criteria") addressing mobile accessibility. They are introduced in [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).
--   **User Agent** Accessibility Guidelines ([UAAG](/standards-guidelines/uaag/)) covers web browsers and other “user agents”, including mobile browsers.
-    -   For examples of how web browsers that follow UAAG benefit people with disabilities using the Web on mobile devices, see [Mobile Accessibility Examples from UAAG](http://www.w3.org/TR/IMPLEMENTING-UAAG20/mobile).
-    -   For those wanting to explore the issues more, see [Applying UAAG to Mobile Phones](http://www.w3.org/WAI/UA/work/wiki/Applying_UAAG_to_Mobile_Phones).
--   **Authoring Tool** Accessibility Guideline ([ATAG](/standards-guidelines/atag/)) covers software used to create web pages and applications, including for mobile.
--   **[WAI-ARIA](/standards-guidelines/aria/)** (Accessible Rich Internet Applications) defines ways to make web content more accessible, especially dynamic content and advanced user interface controls. It applies to web applications and to accessing websites with mobile devices.
+-   **웹 콘텐츠** 접근성 지침 ([WCAG](/standards-guidelines/wcag/))은 모바일 기기에서 사용되는 콘텐츠를 포함한 웹 어플리케이션과 웹 페이지를 포함합니다.
+    -   WCAG 2.0을 모바일 웹 콘텐츠, 모바일 웹앱, 네이티브 앱, 네이티브 앱 속 웹 콘텐츠를 사용하는 하이브리드 앱에 적용하는 방법을 배우기 위해, [모바일 접근성: WCAG 2.0와 다른 W3C/WAI 지침을 모바일에 적용하는 방법](http://www.w3.org/TR/mobile-accessibility-mapping/)을 참고하세요.
+    -   모바일 앱을 포함하는 더 일반적인 정보를 얻고 싶다면 [WCAG2ICT: 웹이 아닌 정보와 통신기술에 WCAG 2.0 적용하기](http://www.w3.org/TR/wcag2ict/)를 참고하세요.
+    -   2018년에 발행된 WCAG 2.1은 모바일 접근성을 다루는 새로운 필요조건("성공 기준")을 포함합니다. 이 내용은 [[WCAG 2.1의 새로운 내용 알아보기]](/standards-guidelines/wcag/new-in-21/)을 참고하세요.
+-   **사용자 에이전트** 접근성 지침 ([UAAG](/standards-guidelines/uaag/))은 웹 브라우저와 모바일 브라우저를 포함한 다른 "사용자 에이전트"를 다룹니다.
+    -   UAAG를 준수하는 웹 브라우저가 모바일 기기의 웹을 사용하는 장애를 가진 사용자에게 어떤 이점을 제공하는지에 대한 예시는 [UAAG에서의 웹 접근성 예시](http://www.w3.org/TR/IMPLEMENTING-UAAG20/mobile)를 참고하세요.
+    -   더 많은 이슈들을 탐색하고 싶은 분들은 [모바일 폰에 UAAG 적용하기](http://www.w3.org/WAI/UA/work/wiki/Applying_UAAG_to_Mobile_Phones)를 참고하세요.
+-   **저작 도구** 접근성 지침 ([ATAG](/standards-guidelines/atag/))은 모바일을 포함한 어플리케이션과 웹 페이지를 만드는 데에 사용되는 소프트웨어를 포함합니다.
+-   **[WAI-ARIA](/standards-guidelines/aria/)** (접근성 리치 인터넷 어플리케이션)는 웹 콘텐츠(특히 다양한 콘테츠와 사용자 진보된 인터페이스 컨트롤)가 더 접근 가능하게 만드는 방법을 정의합니다. 웹 어플리케이션과 모바일 기기의 웹 사이트에 접근하는 데에 적용됩니다.
 
-WAI's Education and Outreach Working Group (EOWG) is developing a **Mobile Accessibility Introduction** with guidance for designers and developers. We expect it to be completed in late 2019.
+WAI의 교육과 활동관련 실무 그룹(EOWG)는 디자이너와 개발자를 위한 가이드와 함께 **모바일 접근성 입문**를 개발합니다. 2019년 말까지 완수할 수 있기를 기대합니다. 
 
 **W3C addresses mobile accessibility.** WAI ensures that the core W3C technologies support accessibility, including those that are essential for the mobile web. All W3C work is reviewed for accessibility by WAI's Accessible Platform Architectures Working Group ([APA](https://www.w3.org/WAI/APA/)).
 
