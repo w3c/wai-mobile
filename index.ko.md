@@ -93,22 +93,22 @@ ref: /standards-guidelines/mobile/
 
 WAI의 교육과 활동관련 실무 그룹(EOWG)는 디자이너와 개발자를 위한 가이드와 함께 **모바일 접근성 입문**를 개발합니다. 2019년 말까지 완수할 수 있기를 기대합니다. 
 
-**W3C addresses mobile accessibility.** WAI ensures that the core W3C technologies support accessibility, including those that are essential for the mobile web. All W3C work is reviewed for accessibility by WAI's Accessible Platform Architectures Working Group ([APA](https://www.w3.org/WAI/APA/)).
+**W3C는 모바일 접근성을 다룹니다.** WAI는 핵심 W3C 기술들이 모바일 웹에 필수적인 요소들을 포함하는 접근성을 지원하도록 합니다.모든 W3C의 작업은 WAI의 접근 가능한 플랫폼 아키텍쳐 실무 그룹([APA](https://www.w3.org/WAI/APA/))에서 접근성관련 검토를 합니다.
 
-W3C work on mobile includes [Mobile Web Application Best Practices](http://www.w3.org/TR/mwabp/) and [Mobile Web Best Practices](http://www.w3.org/TR/mobile-bp/). For a summary of technologies developed in W3C that increase the capabilities of web applications and how they apply specifically to the mobile context, see [Standards for Web Applications on Mobile](http://www.w3.org/Mobile/mobile-web-app-state/).
+W3C는 [모바일 웹 어플리케이션 모범 사례](http://www.w3.org/TR/mwabp/)와 [모바일 웹 모범 사례](http://www.w3.org/TR/mobile-bp/)같이 모바일 관련 작업을 합니다. W3C가 만든 웹 앱의 효용성을 높이는 기술과 모바일에 적용 방법을 요약한 내용은 [모바일 웹 어플리케이션 표준](http://www.w3.org/Mobile/mobile-web-app-state/)을 참고하세요.
 
-## Get Updates {#updates}
+## 앞으로의 내용을 알고 싶다면 {#updates}
 
-If you would like to get notification of future work on mobile accessibility at W3C WAI, see [[Get WAI News]](/news/subscribe/).
+W3C WAI의 모바일 접근성 관련 이후의 작업 내용을 알고자 하신다면 다음 링크를 참고해주세요. : [[Get WAI News]](/news/subscribe/).
 
-## Get Involved {#involved}
+## 참여하기 {#involved}
 
-General information is available in [[Participating in WAI]](/about/participating/).
+일반 정보들은 [[WAI에 참여하기]](/about/participating/)에서 확인 가능합니다.
 
-Most of WAI's work related to mobile accessibility is through the [Mobile Accessibility Task Force](https://www.w3.org/WAI/GL/mobile-a11y-tf/). If you would like to be more involved in WAI's work on mobile accessibility, please send an e-mail with information about your interests and time availability to the Task Force facilitators [Kim Patch and Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry) with CC to WAI Staff (wai@w3.org).
+WAI의 모바일 접근성과 관련된 작업물 대부분은 [모바일 접근성 팀](https://www.w3.org/WAI/GL/mobile-a11y-tf/)이 진행합니다. 만약 WAI의 모바일 접근성 관련 작업에 참여하고 싶으시다면, 여러분이 관심 분야와 참여 가능 시간을 WAI 직원(wai@w3.org)을 참조에 추가하여 담당자 [Kim Patch and Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry)에게 e-mail을 보내주세요.
 
-## About W3C and WAI {#about}
+## W3C와 WAI에 대해 {#about}
 
-The World Wide Web Consortium (W3C) is an international consortium where Member organizations, a full-time staff, and the public work together to develop Web standards. W3C primarily pursues its mission through the creation of Web standards and guidelines designed to ensure long-term growth for the Web. To learn more, see [About W3C](http://www.w3.org/Consortium/).
+월드 와이드 웹 컨소시움 (W3C)은 웹 표준을 만들기 위해 조직, 직원, 대중이 일원인 국제적 협력단입니다. W3C는 웹의 장기 성장을 위해 만든 지침과 웹 표준 제작을 통해 주요 목적을 수행하고 있습니다. 더 자세한 내용을 알고자 하신다면, 다음을 참고해 주세요. : [About W3C](http://www.w3.org/Consortium/).
 
-W3C's Web Accessibility Initiative (WAI) brings together individuals and organizations from around the world to develop strategies, guidelines, and resources to help make the Web accessible to people with disabilities. To learn more, see the [WAI website](http://www.w3.org/WAI/).
+W3C의 웹 접근성 이니셔티브(WAI)는 장애를 가진 사용자가 접근 가능한 웹을 만들기 위한 전략, 지침, 자원들을 개발하고자 전 세계에서 개인과 조직들을 모았습니다. 더 자세한 내용을 알고자 하신다면, 다음을 참고해 주세요. : [WAI website](http://www.w3.org/WAI/).
