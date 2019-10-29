@@ -8,14 +8,13 @@ description:
 
 lang: ko
 last_updated: 2019-09-23
+permalink: /standards-guidelines/mobile/
 
 translators: 
 - name: "Yong Ui Lee"
   link: "https://twitter.com/yongui9"
 contributors:
 - name: "Jun Ho Lee"
-
-permalink: /standards-guidelines/mobile/
 
 github:
   repository: w3c/wai-mobile
