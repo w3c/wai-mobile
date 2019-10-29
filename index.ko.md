@@ -8,7 +8,7 @@ description:
 
 lang: ko
 last_updated: 2019-09-23
-permalink: /standards-guidelines/mobile/
+permalink: /standards-guidelines/mobile/ko
 
 translators: 
 - name: "Yong Ui Lee"
