@@ -7,7 +7,7 @@ nav_title: "W3C의 모바일 접근성"
 description: 
 
 lang: ko
-last_updated: 2019-09-23
+last_updated: 2019-10-30
 permalink: /standards-guidelines/mobile/ko
 
 translators: 
@@ -32,10 +32,10 @@ ref: /standards-guidelines/mobile/
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
 
--   **모바일 접근성은 현재의 W3C WAI 접근성 표준/지침으로 지원가능합니다.**. 모바일 접근성만을 위한 별도의 지침은 없습니다.
+-   **모바일 접근성은 현재의 W3C WAI 접근성 표준/지침으로 지원가능합니다.**. 별도의 모바일 접근성 지침은 없습니다.
 -   W3C는 모바일 접근성에 더 초점을 맞춘 지침과 업데이트된 필요조건 관련 작업을 하고 있습니다.
--   **WAI의 [모바일 접근성 TF](https://www.w3.org/WAI/GL/mobile-a11y-tf/)의 작업 내용:**
-    -   [모바일 접근성 : WCAG 2.0와 다른 W3C/WAI 지침들을 모바일에 적용하는 방법](http://www.w3.org/TR/mobile-accessibility-mapping/)
+-   **WAI의 [모바일 접근성팀](https://www.w3.org/WAI/GL/mobile-a11y-tf/)의 작업 내용:**
+    -   [모바일 접근성 : WCAG 2.0와 다른 W3C/WAI 지침을 모바일에 적용하는 방법](http://www.w3.org/TR/mobile-accessibility-mapping/)
     -   WCAG 2.1 성공 기준과 기술
     -   미래 W3C 표준에 모바일 접근성 통합하기
 
@@ -59,7 +59,7 @@ ref: /standards-guidelines/mobile/
 
 ## "모바일" 이상으로 {#intro}
 
-"모바일 접근성"은 장애가 있는 사용자가 모바일 폰이나 다른 장치들에서 더 접근 가능한 어플리케이션이나 웹 사이트를 만드는 것을 가리킵니다. 이 영역에서 WAI의 일은 웹과 상호작용하기 위해 다양한 장치를 사용하는 사람들의 접근성 문제를 다루는 것입니다. 다음의 장치를 포함합니다. :
+"모바일 접근성"은 장애가 있는 사용자가 모바일 폰이나 다른 장치들에서 어플리케이션이나 웹 사이트에 접근 가능성을 높이도록 만드는 것을 가리킵니다. 이 영역에서 WAI의 일은 웹과 상호작용하기 위해 다양한 장치를 사용하는 사람들의 접근성 문제를 다루는 것입니다. 다음의 장치를 포함합니다. :
 
 -   모바일 폰이나 태블릿
 -   디지털 TV
@@ -82,32 +82,32 @@ ref: /standards-guidelines/mobile/
 
 -   **웹 콘텐츠** 접근성 지침 ([WCAG](/standards-guidelines/wcag/))은 모바일 기기에서 사용되는 콘텐츠를 포함한 웹 어플리케이션과 웹 페이지를 포함합니다.
     -   WCAG 2.0을 모바일 웹 콘텐츠, 모바일 웹앱, 네이티브 앱, 네이티브 앱 속 웹 콘텐츠를 사용하는 하이브리드 앱에 적용하는 방법을 배우기 위해, [모바일 접근성: WCAG 2.0와 다른 W3C/WAI 지침을 모바일에 적용하는 방법](http://www.w3.org/TR/mobile-accessibility-mapping/)을 참고하세요.
-    -   모바일 앱을 포함하는 더 일반적인 정보를 얻고 싶다면 [WCAG2ICT: 웹이 아닌 정보와 통신기술에 WCAG 2.0 적용하기](http://www.w3.org/TR/wcag2ict/)를 참고하세요.
+    -   모바일 앱을 포함하는 더 일반적인 정보를 얻고 싶다면 [WCAG2ICT: 웹이 아닌 정보통신기술에 WCAG 2.0 적용하기](http://www.w3.org/TR/wcag2ict/)를 참고하세요.
     -   2018년에 발행된 WCAG 2.1은 모바일 접근성을 다루는 새로운 필요조건("성공 기준")을 포함합니다. 이 내용은 [[WCAG 2.1의 새로운 내용 알아보기]](/standards-guidelines/wcag/new-in-21/)을 참고하세요.
 -   **사용자 에이전트** 접근성 지침 ([UAAG](/standards-guidelines/uaag/))은 웹 브라우저와 모바일 브라우저를 포함한 다른 "사용자 에이전트"를 다룹니다.
-    -   UAAG를 준수하는 웹 브라우저가 모바일 기기의 웹을 사용하는 장애를 가진 사용자에게 어떤 이점을 제공하는지에 대한 예시는 [UAAG에서의 웹 접근성 예시](http://www.w3.org/TR/IMPLEMENTING-UAAG20/mobile)를 참고하세요.
+    -   UAAG를 준수하는 웹 브라우저가 모바일 웹을 사용하는 장애를 가진 사용자에게 제공하는 이점에 대한 예시는 [UAAG에서의 웹 접근성 예시](http://www.w3.org/TR/IMPLEMENTING-UAAG20/mobile)를 참고하세요.
     -   더 많은 이슈들을 탐색하고 싶은 분들은 [모바일 폰에 UAAG 적용하기](http://www.w3.org/WAI/UA/work/wiki/Applying_UAAG_to_Mobile_Phones)를 참고하세요.
 -   **저작 도구** 접근성 지침 ([ATAG](/standards-guidelines/atag/))은 모바일을 포함한 어플리케이션과 웹 페이지를 만드는 데에 사용되는 소프트웨어를 포함합니다.
--   **[WAI-ARIA](/standards-guidelines/aria/)** (접근성 리치 인터넷 어플리케이션)는 웹 콘텐츠(특히 다양한 콘테츠와 사용자 진보된 인터페이스 컨트롤)가 더 접근 가능하게 만드는 방법을 정의합니다. 웹 어플리케이션과 모바일 기기의 웹 사이트에 접근하는 데에 적용됩니다.
+-   **[WAI-ARIA](/standards-guidelines/aria/)** (접근성 리치 인터넷 어플리케이션)는 웹 콘텐츠(특히 다양한 콘테츠와 고도의 인터페이스 컨트롤)가 더 접근 가능하게 만드는 방법을 정의합니다. 웹 어플리케이션과 모바일 기기의 웹 사이트에 접근하는 데에 적용됩니다.
 
 WAI의 교육과 활동관련 실무 그룹(EOWG)는 디자이너와 개발자를 위한 가이드와 함께 **모바일 접근성 입문**를 개발합니다. 2019년 말까지 완수할 수 있기를 기대합니다. 
 
-**W3C는 모바일 접근성을 다룹니다.** WAI는 핵심 W3C 기술들이 모바일 웹에 필수적인 요소들을 포함하는 접근성을 지원하도록 합니다.모든 W3C의 작업은 WAI의 접근 가능한 플랫폼 아키텍쳐 실무 그룹([APA](https://www.w3.org/WAI/APA/))에서 접근성관련 검토를 합니다.
+**W3C는 모바일 접근성을 다룹니다.** WAI는 핵심 W3C 기술들이 모바일 웹에 필수적인 요소들을 포함하는 접근성을 지원하도록 합니다. 모든 W3C의 작업은 WAI의 접근 가능한 플랫폼 아키텍쳐 실무 그룹([APA](https://www.w3.org/WAI/APA/))에서 접근성관련 검토를 합니다.
 
-W3C는 [모바일 웹 어플리케이션 모범 사례](http://www.w3.org/TR/mwabp/)와 [모바일 웹 모범 사례](http://www.w3.org/TR/mobile-bp/)같이 모바일 관련 작업을 합니다. W3C가 만든 웹 앱의 효용성을 높이는 기술과 모바일에 적용 방법을 요약한 내용은 [모바일 웹 어플리케이션 표준](http://www.w3.org/Mobile/mobile-web-app-state/)을 참고하세요.
+W3C는 [모바일 웹 어플리케이션 모범 사례](http://www.w3.org/TR/mwabp/), [모바일 웹 모범 사례](http://www.w3.org/TR/mobile-bp/)와 같이 모바일 관련 작업을 합니다. W3C가 만든 웹 앱의 효용성을 높이는 기술과 모바일에 적용 방법을 요약한 내용은 [모바일 웹 어플리케이션 표준](http://www.w3.org/Mobile/mobile-web-app-state/)을 참고하세요.
 
 ## 앞으로의 내용을 알고 싶다면 {#updates}
 
-W3C WAI의 모바일 접근성 관련 이후의 작업 내용을 알고자 하신다면 다음 링크를 참고해주세요. : [[Get WAI News]](/news/subscribe/).
+W3C WAI의 모바일 접근성 관련 이후의 작업 내용을 알고자 하신다면 다음 링크를 참고해주세요. : [[WAI소식 받기]](/news/subscribe/).
 
 ## 참여하기 {#involved}
 
-일반 정보들은 [[WAI에 참여하기]](/about/participating/)에서 확인 가능합니다.
+기본 정보들은 [[WAI에 참여하기]](/about/participating/)에서 확인 가능합니다.
 
-WAI의 모바일 접근성과 관련된 작업물 대부분은 [모바일 접근성 팀](https://www.w3.org/WAI/GL/mobile-a11y-tf/)이 진행합니다. 만약 WAI의 모바일 접근성 관련 작업에 참여하고 싶으시다면, 여러분이 관심 분야와 참여 가능 시간을 WAI 직원(wai@w3.org)을 참조에 추가하여 담당자 [Kim Patch and Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry)에게 e-mail을 보내주세요.
+WAI의 모바일 접근성과 관련된 작업물 대부분은 [모바일 접근성 팀](https://www.w3.org/WAI/GL/mobile-a11y-tf/)이 진행합니다. 만약 WAI의 모바일 접근성 관련 작업에 참여하고 싶으시다면, 여러분의 관심 분야와 참여 가능 시간을 WAI 직원(wai@w3.org)을 참조에 추가하여 담당자 [Kim Patch와 Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry)에게 e-mail을 보내주세요.
 
 ## W3C와 WAI에 대해 {#about}
 
-월드 와이드 웹 컨소시움 (W3C)은 웹 표준을 만들기 위해 조직, 직원, 대중이 일원인 국제적 협력단입니다. W3C는 웹의 장기 성장을 위해 만든 지침과 웹 표준 제작을 통해 주요 목적을 수행하고 있습니다. 더 자세한 내용을 알고자 하신다면, 다음을 참고해 주세요. : [About W3C](http://www.w3.org/Consortium/).
+월드 와이드 웹 컨소시움 (W3C)은 웹 표준을 만들기 위해 조직, 직원, 대중이 일원인 국제적 협력단입니다. W3C는 웹의 장기 성장을 위해 만든 지침과 웹 표준 제작을 통해 주요 목적을 수행하고 있습니다. 더 자세한 내용을 알고자 하신다면, 다음을 참고해 주세요. : [W3C에 대해](http://www.w3.org/Consortium/).
 
-W3C의 웹 접근성 이니셔티브(WAI)는 장애를 가진 사용자가 접근 가능한 웹을 만들기 위한 전략, 지침, 자원들을 개발하고자 전 세계에서 개인과 조직들을 모았습니다. 더 자세한 내용을 알고자 하신다면, 다음을 참고해 주세요. : [WAI website](http://www.w3.org/WAI/).
+W3C의 웹 접근성 이니셔티브(WAI)는 장애를 가진 사용자가 접근 가능한 웹을 만들기 위한 전략, 지침, 자원들을 개발하고자 전 세계에서 개인과 조직을 모았습니다. 더 자세한 내용을 알고자 하신다면, 다음을 참고해 주세요. : [WAI 웹 사이트](http://www.w3.org/WAI/).
