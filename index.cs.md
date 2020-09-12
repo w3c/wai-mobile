@@ -29,12 +29,12 @@ ref: /standards-guidelines/mobile/
 {% include box.html type="start" h="2" title="Shrnutí" class="full" %}
 {:/}
 
--   **Mobilní přístupnost je zahrnutá v existujících standardech/pokynech W3C WAI pro přístupnost.**. Neexistují samostatné pokyny pro mobilní přístupnost.
+-   **Mobilní přístupnost je zahrnutá v existujících standardech/pokynech W3C WAI pro přístupnost.**. Samostatné pokyny pro mobilní přístupnost neexistují.
 -   W3C vyvíjí aktualizované požadavky a konkrétnější pokyny pro mobilní přístupnost.
 -   **Práce WAI [Pracovní skupiny pro mobilní přístupnost](https://www.w3.org/WAI/GL/mobile-a11y-tf/) zahrnuje:**
     -   [Mobilní přístupnost: Jak se WCAG 2.0 a další W3C/WAI pokyny týkají mobilních zařízení](http://www.w3.org/TR/mobile-accessibility-mapping/)
-    -   WCAG 2.1 Kritéria úspěchu a techniky
-    -   Integrace mobilní přístupnosti v budoucích standardech W3C
+    -   WCAG 2.1 Kritéria úspěšnosti a techniky
+    -   Integraci mobilní přístupnosti v budoucích standardech W3C
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -60,8 +60,8 @@ ref: /standards-guidelines/mobile/
 
 -   telefonů a tabletů
 -   digitálních televizí
--   zařízení, která se nosí, jako chytré hodinky
--   zařízení v přístrojových deskách a opěradlech letadel
+-   zařízení, která se nosí, jako třeba chytré hodinky
+-   zařízení v přístrojových deskách aut a opěradlech sedaček v letadle
 -   zařízení v domácích spotřebičích
 -   dalších v „internetu věcí“
 
@@ -78,9 +78,9 @@ ref: /standards-guidelines/mobile/
 **Standardy přístupnosti WAI řeší mobilní přístupnost**:
 
 -   Pokyny pro zpřístupnění **obsahu webu** ([WCAG](/standards-guidelines/wcag/)) zahrnují webové stránky a aplikace včetně obsahu používaného na mobilních zařízeních
-    -   Informace o tom, jak lze WCAG 2.0 aplikovat na mobilní webový obsah, mobilní webové aplikace, nativní aplikace a hybridní aplikace pomocí webových komponent uvnitř nativních aplikací, najdete v části [Mobilní přístupnost: Jak se WCAG 2.0 a další pokyny W3C/WAI vztahují na mobilní zařízení](http://www.w3.org/TR/mobile-accessibility-mapping/).
+    -   Informace o tom, jak lze WCAG 2.0 aplikovat na mobilní webový obsah, mobilní webové aplikace, nativní aplikace a hybridní aplikace pomocí webových komponent vrámci nativních aplikací, najdete v části [Mobilní přístupnost: Jak se WCAG 2.0 a další pokyny W3C/WAI vztahují na mobilní zařízení](http://www.w3.org/TR/mobile-accessibility-mapping/).
     -   Obecnějším zdrojem, který také zahrnuje mobilní aplikace, je [WCAG2ICT: Aplikování WCAG 2.0 v jiných než webových informačních a komunikačních technologiích](http://www.w3.org/TR/wcag2ict/).
-    -   WCAG 2.1, zveřejněno v červnu 2018, zahrnuje nové požadavky („kritéria úspěšnosti“) na mobilní přístupnost. Jsou představeny v [[Co je nového ve WCAG 2.1]](/standards-guidelines/wcag/new-in-21/). 
+    -   WCAG 2.1, zveřejněno v červnu 2018, zahrnuje nové požadavky („kritéria úspěšnosti“) pro mobilní přístupnost. Jsou představeny v [[Co je nového ve WCAG 2.1]](/standards-guidelines/wcag/new-in-21/). 
 -   Pokyny k **uživatelským agentům** ([UAAG](/standards-guidelines/uaag/)) zahrnují webové prohlížeče a další „uživatelské agenty“ včetně mobilních prohlížečů.
     -   Příklady, jak jsou webové prohlížeče, které dodržují UAAG, prospěšné pro osoby se zdravotním postižením při používání webu na mobilních zařízeních, najdete v sekci [Příklady mobilní přístupnosti z UAAG](http://www.w3.org/TR/IMPLEMENTING-UAAG20/mobile).
     -   Pokud se chcete o této problematice dozvědět více, navštivte [Použití UAAG na mobilních telefonech](http://www.w3.org/WAI/UA/work/wiki/Applying_UAAG_to_Mobile_Phones).
@@ -89,11 +89,11 @@ ref: /standards-guidelines/mobile/
 
 Pracovní skupina WAI pro vzdělání a osvětu (EOWG) vyvíjí **Úvod do mobilní přístupnosti** s pokyny pro designéry a vývojáře. Dokončení očekáváme koncem roku 2019.
 
-**W3C řeší mobilní přístupnost.** WAI zajišťuje, že základní technologie W3C podporují přístupnost, včetně těch, které jsou nezbytné pro mobilní web. Veškerá práce W3C je kontolována z hlediska přístupnosti WAI pracovní skupinou Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)).
+**W3C řeší mobilní přístupnost.** WAI zajišťuje, že základní technologie W3C podporují přístupnost, včetně těch, které jsou nezbytné pro mobilní web. Veškerá práce W3C je kontrolována z hlediska přístupnosti WAI pracovní skupinou Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)).
 
-Práce W3C ohledně mobilních zařízení zahrnuje [Osvědčené postupy pro mobilní webové aplikace](http://www.w3.org/TR/mwabp/) a [Osvědčené postupy pro mobilní web](http://www.w3.org/TR/mobile-bp/). Souhrn technologií vyvinutých ve W3C, které zvyšují možnosti webových aplikací a jejich konkrétní použití v mobilním kontextu, najdete v části [Standardy pro mobilní webové aplikace](http://www.w3.org/Mobile/mobile-web-app-state/).
+Práce W3C související s mobilními zařízeními zahrnuje [Osvědčené postupy pro mobilní webové aplikace](http://www.w3.org/TR/mwabp/) a [Osvědčené postupy pro mobilní web](http://www.w3.org/TR/mobile-bp/). Souhrn technologií vyvinutých ve W3C, které zvyšují možnosti webových aplikací a jejich konkrétní použití v mobilním kontextu, najdete v části [Standardy pro mobilní webové aplikace](http://www.w3.org/Mobile/mobile-web-app-state/).
 
-## Dostávat aktualizace {#updates}
+## Aktuální informace {#updates}
 
 Pokud chcete dostávat upozornění o budoucí práci na mobilní přístupnosti ve W3C WAI, navštivte [[Dostávat WAI novinky]](/news/subscribe/).
 
