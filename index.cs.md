@@ -29,7 +29,7 @@ ref: /standards-guidelines/mobile/
 {% include box.html type="start" h="2" title="Shrnutí" class="full" %}
 {:/}
 
--   **Mobilní přístupnost je zahrnutá v existujících standardech/pokynech W3C WAI pro přístupnost.**. Samostatné pokyny pro mobilní přístupnost neexistují.
+-   **Mobilní přístupnost je zahrnutá v existujících standardech/pokynech W3C WAI pro přístupnost.** Samostatné pokyny pro mobilní přístupnost neexistují.
 -   W3C vyvíjí aktualizované požadavky a konkrétnější pokyny pro mobilní přístupnost.
 -   **Práce WAI [Pracovní skupiny pro mobilní přístupnost](https://www.w3.org/WAI/GL/mobile-a11y-tf/) zahrnuje:**
     -   [Mobilní přístupnost: Jak se WCAG 2.0 a další W3C/WAI pokyny týkají mobilních zařízení](http://www.w3.org/TR/mobile-accessibility-mapping/)
