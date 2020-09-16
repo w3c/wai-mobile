@@ -78,7 +78,7 @@ ref: /standards-guidelines/mobile/
 **Standardy přístupnosti WAI řeší mobilní přístupnost**:
 
 -   Pokyny pro zpřístupnění **obsahu webu** ([WCAG](/standards-guidelines/wcag/)) zahrnují webové stránky a aplikace včetně obsahu používaného na mobilních zařízeních
-    -   Informace o tom, jak lze WCAG 2.0 aplikovat na mobilní webový obsah, mobilní webové aplikace, nativní aplikace a hybridní aplikace pomocí webových komponent vrámci nativních aplikací, najdete v části [Mobilní přístupnost: Jak se WCAG 2.0 a další pokyny W3C/WAI vztahují na mobilní zařízení](http://www.w3.org/TR/mobile-accessibility-mapping/).
+    -   Informace o tom, jak lze WCAG 2.0 aplikovat na mobilní webový obsah, mobilní webové aplikace, nativní aplikace a hybridní aplikace pomocí webových komponent vrámci nativních aplikací najdete v části [Mobilní přístupnost: Jak se WCAG 2.0 a další pokyny W3C/WAI vztahují na mobilní zařízení](http://www.w3.org/TR/mobile-accessibility-mapping/).
     -   Obecnějším zdrojem, který také zahrnuje mobilní aplikace, je [WCAG2ICT: Aplikování WCAG 2.0 v jiných než webových informačních a komunikačních technologiích](http://www.w3.org/TR/wcag2ict/).
     -   WCAG 2.1, zveřejněno v červnu 2018, zahrnuje nové požadavky („kritéria úspěšnosti“) pro mobilní přístupnost. Jsou představeny v [[Co je nového ve WCAG 2.1]](/standards-guidelines/wcag/new-in-21/). 
 -   Pokyny k **uživatelským agentům** ([UAAG](/standards-guidelines/uaag/)) zahrnují webové prohlížeče a další „uživatelské agenty“ včetně mobilních prohlížečů.
