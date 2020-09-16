@@ -7,7 +7,7 @@ nav_title: "Mobilní přístupnost ve W3C"
 description: 
 
 lang: cs
-last_updated: 2020-09-11
+last_updated: 2020-09-16
 permalink: /standards-guidelines/mobile/cs
 
 translators:
