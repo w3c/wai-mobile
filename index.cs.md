@@ -12,6 +12,8 @@ permalink: /standards-guidelines/mobile/cs
 
 translators:
 - name: "Kristýna Švecová"
+contributors:
+- name: "Vojtěch Polívka"
 
 github:
   repository: w3c/wai-mobile
