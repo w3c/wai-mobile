@@ -7,7 +7,7 @@ nav_title: "Mobile Accessibility at W3C"
 description: 
 
 lang: en
-last_updated: 2019-03-01
+last_updated: 2020-10-13
 permalink: /standards-guidelines/mobile/
 
 github:
@@ -16,7 +16,7 @@ github:
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated 1 March 2019. First published January 2008.</p>
+  <p><strong>Date:</strong> Updated 13 October 2020. First published January 2008.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
@@ -85,7 +85,7 @@ It addresses a wide range of issues:
 -   **Authoring Tool** Accessibility Guideline ([ATAG](/standards-guidelines/atag/)) covers software used to create web pages and applications, including for mobile.
 -   **[WAI-ARIA](/standards-guidelines/aria/)** (Accessible Rich Internet Applications) defines ways to make web content more accessible, especially dynamic content and advanced user interface controls. It applies to web applications and to accessing websites with mobile devices.
 
-WAI's Education and Outreach Working Group (EOWG) is developing a **Mobile Accessibility Introduction** with guidance for designers and developers. We expect it to be completed in late 2019.
+<!-- WAI's Education and Outreach Working Group (EOWG) is developing a **Mobile Accessibility Introduction** with guidance for designers and developers. We expect it to be completed in late 2019. -->
 
 **W3C addresses mobile accessibility.** WAI ensures that the core W3C technologies support accessibility, including those that are essential for the mobile web. All W3C work is reviewed for accessibility by WAI's Accessible Platform Architectures Working Group ([APA](https://www.w3.org/WAI/APA/)).
 
