@@ -62,7 +62,7 @@ ref: /standards-guidelines/mobile/
 -   devices in household appliances
 -   other "Internet of Things"
 
-It address a wide range of issues:
+It addresses a wide range of issues:
 
 -   touchscreens
 -   small screen sizes
