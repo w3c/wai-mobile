@@ -7,7 +7,7 @@ nav_title: "Mobile Accessibility at W3C"
 description: 
 
 lang: en
-last_updated: 2020-10-13
+last_updated: 2020-10-14
 permalink: /standards-guidelines/mobile/
 
 github:
@@ -16,7 +16,7 @@ github:
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated 13 October 2020. First published January 2008.</p>
+  <p><strong>Date:</strong> Updated 14 October 2020. First published January 2008.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
@@ -68,7 +68,7 @@ It addresses a wide range of issues:
 -   small screen sizes
 -   different input modalities, including speech and 3D touch enabled by
     pressure sensors
--   device use in a different settings, such as bright sunlight
+-   device use in different settings, such as bright sunlight
 -   and more
 
 ## W3C WAI Addresses Mobile Accessibility {#covered}
