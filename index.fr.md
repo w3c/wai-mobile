@@ -28,7 +28,7 @@ ref: /standards-guidelines/mobile/
 
 -   **L'accessibilité mobile est traitée dans les standards/règlements existant du W3C WAI**. Il n'y a pas de règles séparées spécifiques à l'accessibilité mobile.
 -   Le W3C est en train de mettre à jour les exigences et conseils spécifiques à l'accessibilité mobile.
--   **Les efforts de la [force d’intervention sur l’accessibilité mobile](https://www.w3.org/WAI/GL/mobile-a11y-tf/) du WAI se portent entre autres sur :**
+-   **Les efforts de la [force d’intervention sur l’accessibilité mobile](https://www.w3.org/WAI/GL/mobile-a11y-tf/) de la WAI se portent entre autres sur :**
     -   [Accessibilité mobile : Comment WCAG 2.0 et les autres règles du W3C/WAI s'appliquent au mobile (anglais seulement)](http://www.w3.org/TR/mobile-accessibility-mapping/)
     -   WCAG 2.1 Critères de succès et techniques
     -   Intégrer l'accessibilité mobile dans les standards W3C de demain
