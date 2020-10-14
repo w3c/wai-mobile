@@ -30,7 +30,7 @@ ref: /standards-guidelines/mobile/
 -   W3C is developing updated requirements and more specific guidance on mobile accessibility.
 -   **WAI's [Mobile Accessibility Task Force](https://www.w3.org/WAI/GL/mobile-a11y-tf/) work includes:**
     -   [Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile](http://www.w3.org/TR/mobile-accessibility-mapping/)
-    -   WCAG 2.1 Success Criteria and Techniques
+    -   WCAG 2 Success Criteria and Techniques
     -   Integrating mobile accessibility in future W3C standards
 
 {::nomarkdown}
