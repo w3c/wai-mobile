@@ -10,20 +10,12 @@ lang: ar
 last_updated: 2020-10-00
 permalink: /standards-guidelines/mobile/ar
 
-# translators:
-# - name: "@@"
-# contributors:
-# - name: "@@"
-
 github:
   repository: w3c/wai-mobile
   path: index.ar.md
 
-feedbackmail: wai@w3.org
-footer: >
-  <p>@@
-</p>
 ref: /standards-guidelines/mobile/
+
 ---
 
 ## @@ CONTENT BELOW FROM OTHER PAGE FOR TESTING PURPOSES
@@ -221,7 +213,7 @@ Text alternatives can be presented in a variety of ways. For instance, they can 
 #### قصص متعلقة بالوسائط المتعددة  {#stories-related-to-multimedia}
 {:.no_toc}
  
-{% include excol.html type=”middle” %}
+{% include excol.html type="middle" %}
  
 -   [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
 -   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
