@@ -17,7 +17,8 @@ github:
 feedbackmail: wai@w3.org
 footer: >
   <p><strong>Date:</strong> Updated 03 September 2020. First published January 2008.</p>
-  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Translator: Alexander Akel.</p>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. translators: #Add one -name: line for every translator
+- name: "Alexander Akel"</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
 ---
@@ -29,7 +30,7 @@ ref: /standards-guidelines/mobile/
 -   **L'accessibilité mobile est traitée dans les standards/règlements existant du W3C WAI**. Il n'y a pas de règles séparées spécifiques à l'accessibilité mobile.
 -   Le W3C est en train de mettre à jour les exigences et conseils spécifiques à l'accessibilité mobile.
 -   **Les efforts de la [force d’intervention sur l’accessibilité mobile](https://www.w3.org/WAI/GL/mobile-a11y-tf/) de la WAI se portent entre autres sur :**
-    -   [Accessibilité mobile : Comment WCAG 2.0 et les autres règles du W3C/WAI s'appliquent au mobile (anglais seulement)](http://www.w3.org/TR/mobile-accessibility-mapping/)
+    -   [Accessibilité mobile : Comment WCAG 2.0 et les autres règles du W3C/WAI s'appliquent au mobile)](http://www.w3.org/TR/mobile-accessibility-mapping/)
     -   WCAG 2.1 Critères de succès et techniques
     -   Intégrer l'accessibilité mobile dans les standards W3C de demain
 
@@ -71,31 +72,31 @@ Cela couvre une grande étendue de problèmes potentiels concernant :
 -   appareils utilisés avec des paramètres différents comme les écrans lisibles en plein soleil (transflectifs)
 -   et bien d'autres
 
-## W3C WAI traite l'accessibilité mobile{#covered}
+## W3C WAI traite l'accessibilité mobile {#covered}
 
 **Les standards d'accessibilité formulés par la WAI traite de l'accessibilité mobile** :
 
--   **Les Règles pour l'accessibilité des contenus Web** ([WCAG (anglais seulement)](/standards-guidelines/wcag/)) traitent des pages et applications web, incluant le contenu à destination des appareils mobiles.
-    -   Pour apprendre comment WCAG 2.0 s'applique au contenu web pour mobile, aux applications web pour mobile, aux applications natives et aux applications hybrides utilisant des composantes web, voir : [Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile (anglais seulement)](http://www.w3.org/TR/mobile-accessibility-mapping/).
-    -   Une ressource plus générale qui inclut également les applications mobiles est disponible ici : [WCAG2ICT: Applying WCAG 2.0 to Non-Web Information and Communications Technologies (anglais seulement)](http://www.w3.org/TR/wcag2ict/).
-    -   WCAG 2.1, les règles publiées en Juin 2018 contiennent de nouvelles exigences ("critères de succès") traitant de l'accessibilité mobile.  Elles sont présentées ici : [[What’s New in WCAG 2.1 (anglais seulement)]](/standards-guidelines/wcag/new-in-21/).
--   **Les Règles pour l'accessibilité des agents utilisateurs** ([UAAG (anglais seulement)](/standards-guidelines/uaag/)) traitent des navigateurs web ainsi que d'autres agents utilisateurs, y compris les navigateurs sur appareils mobiles.
-    -   Pour consulter des exemples sur les bénéfices accordés aux personnes souffrant de handicaps lors de la navigation web sur leur appareil mobile, Voir : [Mobile Accessibility Examples from UAAG (anglais seulement)](http://www.w3.org/TR/IMPLEMENTING-UAAG20/mobile).
-    -   Pour ceux qui souhaitent comprendre plus en détail les problèmes rencontrés, suivez ce lien : [Applying UAAG to Mobile Phones (anglais seulement)](http://www.w3.org/WAI/UA/work/wiki/Applying_UAAG_to_Mobile_Phones).
--   **Les Règles pour l'accessibilité des outils d'édition** ([ATAG (anglais seulement)](/standards-guidelines/atag/)) traitent des outils utilisés pour créer des pages web et applications, incluant la création sur appareils mobiles.
--   **[WAI-ARIA (anglais seulement)](/standards-guidelines/aria/)** (Accessible Rich Internet Applications) décrit la façon de rendre le contenu web plus accessible, spécifiquement pour les contenus dynamiques et les contrôles d'interfaces avancées. Cela s'applique aux applications web et à l'accès de sites web avec un appareil mobile.
+-   **Les Règles pour l'accessibilité des contenus Web** ([WCAG](/standards-guidelines/wcag/)) traitent des pages et applications web, incluant le contenu à destination des appareils mobiles.
+    -   Pour apprendre comment WCAG 2.0 s'applique au contenu web pour mobile, aux applications web pour mobile, aux applications natives et aux applications hybrides utilisant des composantes web, voir : [Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile](http://www.w3.org/TR/mobile-accessibility-mapping/).
+    -   Une ressource plus générale qui inclut également les applications mobiles est disponible ici : [WCAG2ICT: Applying WCAG 2.0 to Non-Web Information and Communications Technologies](http://www.w3.org/TR/wcag2ict/).
+    -   WCAG 2.1, les règles publiées en Juin 2018 contiennent de nouvelles exigences ("critères de succès") traitant de l'accessibilité mobile.  Elles sont présentées ici : [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).
+-   **Les Règles pour l'accessibilité des agents utilisateurs** ([UAAG](/standards-guidelines/uaag/)) traitent des navigateurs web ainsi que d'autres agents utilisateurs, y compris les navigateurs sur appareils mobiles.
+    -   Pour consulter des exemples sur les bénéfices accordés aux personnes souffrant de handicaps lors de la navigation web sur leur appareil mobile, Voir : [Mobile Accessibility Examples from UAAG](http://www.w3.org/TR/IMPLEMENTING-UAAG20/mobile).
+    -   Pour ceux qui souhaitent comprendre plus en détail les problèmes rencontrés, suivez ce lien : [Applying UAAG to Mobile Phones](http://www.w3.org/WAI/UA/work/wiki/Applying_UAAG_to_Mobile_Phones).
+-   **Les Règles pour l'accessibilité des outils d'édition** ([ATAG](/standards-guidelines/atag/)) traitent des outils utilisés pour créer des pages web et applications, incluant la création sur appareils mobiles.
+-   **[WAI-ARIA](/standards-guidelines/aria/)** (Accessible Rich Internet Applications) décrit la façon de rendre le contenu web plus accessible, spécifiquement pour les contenus dynamiques et les contrôles d'interfaces avancées. Cela s'applique aux applications web et à l'accès de sites web avec un appareil mobile.
 
  
 
-**Le World Wide Web Consortium (W3C) traite l'accessibilité mobile.** L’initiative sur l’Accessibilité du web (WAI) s'assure que les technologies centrales du W3C prennent en charge l'accessibilité, y compris celles qui sont essentielles pour le Web mobile. L'ensemble du travail effectué par le W3C est examiné par le ([Groupe de travail Architectures de Plateforme Accessible (APA) (anglais seulement)](https://www.w3.org/WAI/APA/)).
+**Le World Wide Web Consortium (W3C) traite l'accessibilité mobile.** L’initiative sur l’Accessibilité du web (WAI) s'assure que les technologies centrales du W3C prennent en charge l'accessibilité, y compris celles qui sont essentielles pour le Web mobile. L'ensemble du travail effectué par le W3C est examiné par le ([Groupe de travail Architectures de Plateforme Accessible (APA)](https://www.w3.org/WAI/APA/)).
 
-Le travail rendu par le W3C comprend [les meilleures pratiques pour les applications Web mobiles (anglais seulement)](http://www.w3.org/TR/mwabp/) et [les meilleures pratiques pour le web mobile (anglais seulement)](http://www.w3.org/TR/mobile-bp/). Pour une liste des technologies développées avec W3C qui augmentent les capacités des applications web et comment elles s'appliquent dans un contexte mobile, voir [Standards pour applications web sur mobile (anglais seulement)](http://www.w3.org/Mobile/mobile-web-app-state/).
+Le travail rendu par le W3C comprend [les meilleures pratiques pour les applications Web mobiles](http://www.w3.org/TR/mwabp/) et [les meilleures pratiques pour le web mobiles](http://www.w3.org/TR/mobile-bp/). Pour une liste des technologies développées avec W3C qui augmentent les capacités des applications web et comment elles s'appliquent dans un contexte mobile, voir [Standards pour applications web sur mobile](http://www.w3.org/Mobile/mobile-web-app-state/).
 
 ## Recevoir nos mises à jour {#updates}
 
 Si vous souhaitez recevoir des notifications sur l'avancement de notre travail concernant l'accessibilité mobile chez W3C WAI, voir [Nouvelles de la WAI](/news/subscribe/). 
 
-## Engagez vous{#involved}
+## Engagez vous {#involved}
 
 Information générale disponible à [Participer à la Web Accessibility Initiative](/about/participating/).
 
