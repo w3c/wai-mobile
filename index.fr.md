@@ -8,11 +8,10 @@ description:
 
 lang: fr
 last_updated: 2020-09-03
-  <p><strong>Date:</strong> Updated 03 September 2020. First published January 2008.</p>
-  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.   
-  translators:
-- name: "Alexander Akel"</p>
 permalink: /standards-guidelines/mobile/fr
+
+translators:
+- name: "Alexander Akel"
 
 github:
   repository: w3c/wai-mobile
@@ -20,7 +19,9 @@ github:
 
 feedbackmail: wai@w3.org
 footer: >
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p><strong>Date:</strong> Mise à jour le 03 September 2020. Première publication en janvier 2008.</p>
+  <p><strong>Éditeur:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.    
+  <p>Développé avec la contribution du Groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
 ---
 
