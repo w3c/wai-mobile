@@ -8,6 +8,10 @@ description:
 
 lang: fr
 last_updated: 2020-09-03
+  <p><strong>Date:</strong> Updated 03 September 2020. First published January 2008.</p>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.   
+  translators:
+- name: "Alexander Akel"</p>
 permalink: /standards-guidelines/mobile/fr
 
 github:
@@ -16,9 +20,6 @@ github:
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated 03 September 2020. First published January 2008.</p>
-  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. translators: #Add one -name: line for every translator
-- name: "Alexander Akel"</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
 ---
