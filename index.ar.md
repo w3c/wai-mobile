@@ -6,7 +6,7 @@ nav_title: "Mobile Accessibility at W3C"
 
 description: 
 
-lang: enar
+lang: ar
 last_updated: 2020-10-14
 permalink: /standards-guidelines/mobile/ar
 
