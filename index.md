@@ -7,7 +7,7 @@ nav_title: "Mobile Accessibility at W3C"
 description: 
 
 lang: en
-last_updated: 2020-10-14
+last_updated: 2020-11-20
 permalink: /standards-guidelines/mobile/
 
 github:
@@ -16,7 +16,7 @@ github:
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date:</strong> Updated 14 October 2020. First published January 2008.</p>
+  <p><strong>Date:</strong> Updated 20 November 2020. First published January 2008.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
@@ -77,7 +77,7 @@ It addresses a wide range of issues:
 
 -   **Web Content** Accessibility Guidelines ([WCAG](/standards-guidelines/wcag/)) covers web pages and web applications, including content used on mobile devices.
     -   To learn how WCAG 2.0 can be applied to mobile web content, mobile web apps, native apps, and hybrid apps using web components inside native apps, see [Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile](http://www.w3.org/TR/mobile-accessibility-mapping/).
-    -   A more general resource that also includes mobile apps is [WCAG2ICT: Applying WCAG 2.0 to Non-Web Information and Communications Technologies](http://www.w3.org/TR/wcag2ict/).
+    -   A more general resource that also includes mobile apps is [WCAG2ICT: Applying WCAG 2.0 to Non-Web Information and Communications Technologies](https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/).
     -   WCAG 2.1, published in June 2018, includes new requirements ("success criteria") addressing mobile accessibility. They are introduced in [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).
 -   **User Agent** Accessibility Guidelines ([UAAG](/standards-guidelines/uaag/)) covers web browsers and other “user agents”, including mobile browsers.
     -   For examples of how web browsers that follow UAAG benefit people with disabilities using the Web on mobile devices, see [Mobile Accessibility Examples from UAAG](http://www.w3.org/TR/IMPLEMENTING-UAAG20/mobile).
