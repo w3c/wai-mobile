@@ -1,3 +1,5 @@
+---
+
 # Translation info https://www.w3.org/wiki/WAI/Translation_Instructions
 
 title: " إمكانية الوصول للأجهزة المحمولة في W3C "
