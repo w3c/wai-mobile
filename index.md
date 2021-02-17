@@ -106,3 +106,4 @@ Most of WAI's work related to mobile accessibility is through the [Mobile Access
 The World Wide Web Consortium (W3C) is an international consortium where Member organizations, a full-time staff, and the public work together to develop Web standards. W3C primarily pursues its mission through the creation of Web standards and guidelines designed to ensure long-term growth for the Web. To learn more, see [About W3C](http://www.w3.org/Consortium/).
 
 W3C's Web Accessibility Initiative (WAI) brings together individuals and organizations from around the world to develop strategies, guidelines, and resources to help make the Web accessible to people with disabilities. To learn more, see the [WAI website](http://www.w3.org/WAI/).
+.
