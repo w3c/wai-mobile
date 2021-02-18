@@ -17,9 +17,9 @@ github:
 
 translators: 
 - name: "محمد الموسوي"
-# contributors:
-# - name: "نايف العوضي"
-# - name: "محمد سليم"
+contributors:
+- name: "نايف العوضي"
+- name: "محمد سليم"
 
 feedbackmail: wai@w3.org
 footer: >
