@@ -12,7 +12,7 @@ permalink: /standards-guidelines/mobile/
 
 github:
   repository: w3c/wai-mobile
-  path: index.md
+  path: content/index.md
 
 feedbackmail: wai@w3.org
 footer: >
