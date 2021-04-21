@@ -17,7 +17,7 @@ contributors:
 
 github:
   repository: w3c/wai-mobile
-  path: index.cs.md
+  path: content/index.cs.md
 
 feedbackmail: wai@w3.org
 footer: >
