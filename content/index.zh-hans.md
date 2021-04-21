@@ -16,7 +16,7 @@ translators:
 
 github:
   repository: w3c/wai-mobile
-  path: index.zh-hans.md
+  path: content/index.zh-hans.md
 
 feedbackmail: wai@w3.org
 footer: >
