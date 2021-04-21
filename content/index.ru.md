@@ -18,7 +18,7 @@ permalink: /standards-guidelines/mobile/ru
 
 github:
   repository: w3c/wai-mobile
-  path: index.ru.md
+  path: content/index.ru.md
 ref: /standards-guidelines/mobile/   # Do not change this
 
 feedbackmail: wai@w3.org
