@@ -13,7 +13,7 @@ permalink: /standards-guidelines/mobile/ar
 
 github:
   repository: w3c/wai-mobile
-  path: index.ar.md
+  path: content/index.ar.md
 
 translators: 
 - name: "محمد الموسوي"
