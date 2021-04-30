@@ -10,13 +10,21 @@ lang: en
 last_updated: 2020-11-20
 permalink: /standards-guidelines/mobile/
 
+changelog: /standards-guidelines/mobile/changelog/
+
 github:
   repository: w3c/wai-mobile
   path: content/index.md
 
 feedbackmail: wai@w3.org
+
+# In the footer below:
+# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+# Do not change the dates in the footer below.
 footer: >
-  <p><strong>Date:</strong> Updated 20 November 2020. First published January 2008.</p>
+  <p><strong>Date:</strong> Updated 20 November 2020. First published January 2008. CHANGELOG</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
