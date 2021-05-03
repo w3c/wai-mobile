@@ -16,14 +16,22 @@ lang: ru
 last_updated: 2019-07-12
 permalink: /standards-guidelines/mobile/ru
 
+changelog: /standards-guidelines/mobile/changelog/
+
 github:
   repository: w3c/wai-mobile
   path: content/index.ru.md
 ref: /standards-guidelines/mobile/   # Do not change this
 
 feedbackmail: wai@w3.org
+
+# In the footer below:
+# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+# Do not change the dates in the footer below.
 footer: >
-  <p><strong>Дата:</strong> Обновлено 1 марта 2019 года. Первая публикация: январь 2008 года.</p>
+  <p><strong>Дата:</strong> Обновлено 1 марта 2019 года. Первая публикация: январь 2008 года. CHANGELOG.</p>
   <p><strong>Под редакцией:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. При участии: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Разработано при содействии Рабочей Группы по Образованию и Просвещению (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 

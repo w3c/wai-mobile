@@ -10,6 +10,8 @@ lang: es
 last_updated: 2019-06-27
 permalink: /standards-guidelines/mobile/es
 
+changelog: /standards-guidelines/mobile/changelog/
+
 translators:
 - name: "Jorge Rumoroso"
   link: "https://twitter.com/rumoroso"
@@ -21,8 +23,14 @@ github:
   path: content/index.es.md
 
 feedbackmail: wai@w3.org
+
+# In the footer below:
+# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+# Do not change the dates in the footer below.
 footer: >
-  <p><strong>Fecha:</strong> Actualizado el 1 de Mayo de 2019. Primera publicación en Enero de 2008.</p>
+  <p><strong>Fecha:</strong> Actualizado el 1 de Mayo de 2019. Primera publicación en Enero de 2008. CHANGELOG.</p>
   <p><strong>Editora:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Colaboradora: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Divulgación (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/

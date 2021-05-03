@@ -10,6 +10,8 @@ lang: ko
 last_updated: 2019-10-30
 permalink: /standards-guidelines/mobile/ko
 
+changelog: /standards-guidelines/mobile/changelog/
+
 translators:
   - name: "Yong Ui Lee"
     link: "https://twitter.com/yongui9"
@@ -21,8 +23,14 @@ github:
   path: content/index.ko.md
 
 feedbackmail: wai@w3.org
+
+# In the footer below:
+# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+# Do not change the dates in the footer below.
 footer: >
-  <p><strong>날짜:</strong> 2019년 3월 1일 업데이트됨. 첫 발행일은 2008년 1월입니다.</p>
+  <p><strong>날짜:</strong> 2019년 3월 1일 업데이트됨. 첫 발행일은 2008년 1월입니다. CHANGELOG.</p>
   <p><strong>편집자:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. 기여자: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>교육과 활동관련 실무 그룹인 (<a href="http://www.w3.org/WAI/EO/">EOWG</a>)의 지원을 받아 제작되었습니다.</p>
 ref: /standards-guidelines/mobile/

@@ -10,6 +10,8 @@ lang: zh-hans
 last_updated: 2019-07-12
 permalink: /standards-guidelines/mobile/zh-hans
 
+changelog: /standards-guidelines/mobile/changelog/
+
 translators:
 - name: "李喆明"
   link: "https://imnerd.org/about.html"
@@ -19,8 +21,14 @@ github:
   path: content/index.zh-hans.md
 
 feedbackmail: wai@w3.org
+
+# In the footer below:
+# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+# Do not change the dates in the footer below.
 footer: >
-  <p><strong>日期：</strong>更新于2019年3月1日。第一版发布于2018年1月。</p>
+  <p><strong>日期：</strong>更新于2019年3月1日。第一版发布于2018年1月。CHANGELOG.</p>
   <p><strong>编者：</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. 贡献者： <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>由教育及外展工作组 (<a href="http://www.w3.org/WAI/EO/">EOWG</a>)开发。</p>
 ref: /standards-guidelines/mobile/

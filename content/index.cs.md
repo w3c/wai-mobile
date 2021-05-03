@@ -10,6 +10,8 @@ lang: cs
 last_updated: 2020-09-16
 permalink: /standards-guidelines/mobile/cs
 
+changelog: /standards-guidelines/mobile/changelog/
+
 translators:
 - name: "Kristýna Švecová"
 contributors:
@@ -20,8 +22,14 @@ github:
   path: content/index.cs.md
 
 feedbackmail: wai@w3.org
+
+# In the footer below:
+# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+# Do not change the dates in the footer below.
 footer: >
-  <p><strong>Datum:</strong> Aktualizováno 1. března 2019. Poprvé zveřejněno v lednu 2008.</p>
+  <p><strong>Datum:</strong> Aktualizováno 1. března 2019. Poprvé zveřejněno v lednu 2008. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.  Přispěvatel: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Vyvinuto Pracovní skupinou pro vzdělání a osvětu (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
