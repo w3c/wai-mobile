@@ -5,7 +5,7 @@ title_html: "Changelog for Mobile Accessibility at W3C"
 nav_title: "Changelog"
 
 github:
-  repository: w3c/mobile
+  repository: w3c/wai-mobile
   path: content/changelog.md
 permalink: /standards-guidelines/mobile/changelog/
 
