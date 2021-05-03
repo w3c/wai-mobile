@@ -11,6 +11,8 @@ lang: ar
 last_updated: 2020-10-14
 permalink: /standards-guidelines/mobile/ar
 
+changelog: /standards-guidelines/mobile/changelog/
+
 github:
   repository: w3c/wai-mobile
   path: content/index.ar.md
@@ -22,8 +24,14 @@ contributors:
 - name: "محمد سليم"
 
 feedbackmail: wai@w3.org
+
+# In the footer below:
+# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+# Do not change the dates in the footer below.
 footer: >
-  <p><strong>التاريخ:</strong> تم النشر في يناير 2008. تم التحديث في 14 أكتوبر 2020.</p>
+  <p><strong>التاريخ:</strong> تم النشر في يناير 2008. تم التحديث في 14 أكتوبر 2020. CHANGELOG.</p>
   <p><strong>محرر:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. المشارك: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p> تم تطويره بمساهمة فريق التعليم و التوعية (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
