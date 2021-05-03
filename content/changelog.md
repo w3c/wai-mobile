@@ -46,7 +46,7 @@ WAI's Education and Outreach Working Group (EOWG) is developing a **Mobile Acces
 ```
 
 ## 11 July 2019
-* In Get Involved section, in first sentence, added set of brackets around "Participating in WAI" (so not double brackets instead of single):
-```
+* In [Get Involved section](/standards-guidelines/mobile/#involved), in first sentence, added set of brackets around "Participating in WAI" (so now double brackets instead of single):
+<pre>
 General information is available in [[Participating in WAI]](/about/participating/).
-```
+</pre>
