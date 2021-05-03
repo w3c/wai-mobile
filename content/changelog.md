@@ -6,8 +6,8 @@ nav_title: "Changelog"
 lang: en
 last_updated: 2021-05-05
 
-permalink: /standards-guidelines/mobile/changelog/
-ref: /standards-guidelines/mobile/changelog/   # Do not change
+permalink: /standards-guidelines/mobile/content/changelog/
+ref: /standards-guidelines/mobile/content/changelog/   # Do not change
 layout: default
 github:
    repository: w3c/wai-mobile
