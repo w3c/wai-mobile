@@ -40,17 +40,13 @@ WCAG 2 Success Criteria and Techniques
 ```
 It addresses a wide range of issues:
 ```
-* Footer changed to:
-```
-<p><strong>Date:</strong> Updated 13 October 2020. First published January 2008.</p>
-```
 * Commented out:
 ```
 WAI's Education and Outreach Working Group (EOWG) is developing a **Mobile Accessibility Introduction** with guidance for designers and developers. We expect it to be completed in late 2019.
 ```
 
 ## 11 July 2019
-* Brackets added to General information:
+* In Get Involved section, in first sentence, added set of brackets around "Participating in WAI" (so not double brackets instead of single):
 ```
 General information is available in [[Participating in WAI]](/about/participating/).
 ```
