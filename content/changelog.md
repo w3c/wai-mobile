@@ -1,7 +1,7 @@
 ---
 
 title: "Changelog for Mobile Accessibility at W3C"
-title_html: "Changelog for <a href='/WAI/standards-guidelines/mobile/'>Mobile Accessibility at W3C</a>"
+title_html: "Changelog for Mobile Accessibility at W3C"
 nav_title: "Changelog"
 
 github:
