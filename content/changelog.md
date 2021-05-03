@@ -1,18 +1,17 @@
 ---
-
 title: "Changelog for Mobile Accessibility at W3C"
 title_html: "Changelog for <a href='/WAI/standards-guidelines/mobile/'>Mobile Accessibility at W3C</a>"
 nav_title: "Changelog"
+lang: en
+layout: default
 
-github:
-  repository: w3c/mobile
-  path: content/changelog.md
 permalink: /standards-guidelines/mobile/changelog/
-
 ref: /standards-guidelines/mobile/changelog/
+github:
+   repository: w3c/wai-mobile
+   path: content/changelog.md
 
 feedbackmail: wai@w3.org
-
 footer: >
    <p>Thanks to Tolu Adegbite for updating this changelog in April 2021.</p>
 ---
