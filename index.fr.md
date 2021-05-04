@@ -71,7 +71,7 @@ Cela couvre une grande étendue de problèmes concernant :
 -   les écrans de petite taille
 -   les modes de saisie variés, incluant la voix et la technologie "3D Touch" activée par
     des capteurs de pression
--   les appareils utilisés avec des paramètres différents comme les écrans lisibles en plein soleil (transflectifs)
+- l’utilisation d’appareils dans des situations différentes, par exemple en plein soleil
 -   et bien d'autres
 
 ## L'initiative WAI du W3C aborde l'accessibilité mobile {#covered}
@@ -80,7 +80,7 @@ Cela couvre une grande étendue de problèmes concernant :
 
 -   **Les Règles pour l'accessibilité des contenus Web** ([WCAG](/standards-guidelines/wcag/)) traitent des pages et applications Web, incluant le contenu à destination des appareils mobiles.
     -   Pour apprendre comment les WCAG 2.0 peuvent être appliquées au contenu web pour mobile, aux applications Web pour mobile, aux applications natives et aux applications hybrides utilisant des composantes Web au sein d'applications natives, voir [Accessibilité mobile : Comment les WCAG 2.0 et autres règlements de la WAI du W3C s'appliquent au mobile](http://www.w3.org/TR/mobile-accessibility-mapping/).
-    -   Une ressource plus générale qui inclut également les applications mobiles : [WCAG2ICT : Appliquer les WCAG 2.0 à l'information non-web et aux technologies de l'information et de la communication](http://www.w3.org/TR/wcag2ict/).
+    -   Une ressource plus générale qui inclut également les applications mobiles : [WCAG2ICT : Appliquer les WCAG 2.0 aux technologies de l’information et de la communication « non-web »](http://www.w3.org/TR/wcag2ict/).
     -   Les WCAG 2.1, les règles publiées en Juin 2018 contiennent de nouvelles exigences ("critères de succès") traitant de l'accessibilité mobile.  Elles sont présentées dans : [[Nouveautés dans les WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).
 -   **Les Règles pour l'accessibilité des "agents utilisateurs"** ([UAAG](/standards-guidelines/uaag/)) traitent des navigateurs Web ainsi que d'autres agents utilisateurs, y compris les navigateurs sur appareils mobiles.
     -   Pour des exemples sur la manière dont des navigateurs web respectant les UAAG bénéficient aux personnes en situation de handicap qui utilisent le Web sur des appareils mobiles, consultez [Exemples d'accessibilité mobile dans le contexte des UAAG](http://www.w3.org/TR/IMPLEMENTING-UAAG20/mobile).
