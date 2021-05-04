@@ -71,7 +71,7 @@ Cela couvre une grande étendue de problèmes concernant :
 -   les écrans de petite taille
 -   les modes de saisie variés, incluant la voix et la technologie "3D Touch" activée par
     des capteurs de pression
-- l’utilisation d’appareils dans des situations différentes, par exemple en plein soleil
+-   l’utilisation d’appareils dans des situations différentes, par exemple en plein soleil
 -   et bien d'autres
 
 ## L'initiative WAI du W3C aborde l'accessibilité mobile {#covered}
