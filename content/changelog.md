@@ -12,6 +12,39 @@ github:
    path: content/changelog.md
 ---
 
-## 00 Month 0000 – 00 Month 0000
+{::nomarkdown}
+{% include toc.html type="start" title="Page Contents" %}
+{:/}
 
-* changes coming soon…
+- This will be replaced by an automatically generated TOC when using Markdown formatting.
+{::options toc_levels="2,3" /}
+{:toc}
+
+{::nomarkdown}
+{% include toc.html type="end" %}
+{:/}
+
+
+## 20 Nov 2020
+* Under "W3C WAI Addresses Mobile Accessibility" change "- A more general resource that also includes mobile apps is [WCAG2ICT: Applying WCAG 2.0 to Non-Web Information and Communications Technologies](http://www.w3.org/TR/wcag2ict/)." to:
+```
+- A more general resource that also includes mobile apps is [WCAG2ICT: Applying WCAG 2.0 to Non-Web Information and Communications Technologies](https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/).
+```
+
+## 14 Oct 2020
+* Change "WCAG 2.1 Success Criteria and Techniques" to:
+```
+WCAG 2 Success Criteria and Techniques
+```
+
+## 13 Oct 2020
+* Change "It address a wide range of issues:" to:
+```
+It addresses a wide range of issues:
+```
+
+## 11 Jul 2019
+* Under "Get Involved", "General information is available in [Participating in WAI](/about/participating/)." changed to:
+```
+General information is available in [[Participating in WAI]](/about/participating/).
+```
