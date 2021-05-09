@@ -26,21 +26,21 @@ github:
 
 
 ## 20 Nov 2020
-* Under "W3C WAI Addresses Mobile Accessibility" change "- A more general resource that also includes mobile apps is [WCAG2ICT: Applying WCAG 2.0 to Non-Web Information and Communications Technologies](http://www.w3.org/TR/wcag2ict/)." to:
+* Under "W3C WAI Addresses Mobile Accessibility" change "A more general resource that also includes mobile apps is [WCAG2ICT: Applying WCAG 2.0 to Non-Web Information and Communications Technologies](http://www.w3.org/TR/wcag2ict/)." to:
 ```
-- A more general resource that also includes mobile apps is [WCAG2ICT: Applying WCAG 2.0 to Non-Web Information and Communications Technologies](https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/).
+A more general resource that also includes mobile apps is [WCAG2ICT: Applying WCAG 2.0 to Non-Web Information and Communications Technologies](https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/).
 ```
 
 ## 14 Oct 2020
-* Change "WCAG 2.1 Success Criteria and Techniques" to:
+* Under "WAI's Mobile Accessibility Task Force work includes:" change "WCAG 2.1 Success Criteria and Techniques" to:
 ```
 WCAG 2 Success Criteria and Techniques
 ```
 
 ## 13 Oct 2020
-* Change "It address a wide range of issues:" to:
+* Under "More than 'Mobile'" section, change "It address a wide range of issues" to:
 ```
-It addresses a wide range of issues:
+It addresses a wide range of issues
 ```
 
 ## 11 Jul 2019
