@@ -17,20 +17,39 @@ footer: >
 _This changelog includes some Markdown and HTML syntax to facilitate updating translations._
 
 
-## Change 1
-* Change "### Web Content Accessibility Guidelines (WCAG) {#wcag}" to:
+## Change 1 - cirrectly not pulling heading, but missing double brackets
+* add this
 ```
-### Web Content Accessibility Guidelines (WCAG) 2 {#wcag2}
+### Pronunciation
+[[Pronunciation Overview]](/pronunciation/) &mdash; Pronunciation is about screen readers and other text-to-speech (TTS) synthesis pronouncing content properly.
 ```
 
-## Change 2
-* Change xyz to:
-`- [[WCAG 2 Translations]](/standards-guidelines/wcag/translations/)`
-`- [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)`
-`- [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/), [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)`
-`- [[What's New in WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/)`
+## Change 1.1 - single escape inbetween brackets
+* add this
+`
+### Pronunciation
+[``[Pronunciation Overview]``](/pronunciation/) &mdash; Pronunciation is about screen readers and other text-to-speech (TTS) synthesis pronouncing content properly.
+`
 
-## Change 3
+## Change 2 - no worky
+* add this:
+```
+### W3C Accessibility Guidelines (WCAG) 3 Working Draft {#wcag3}
+WCAG 3 is an early draft that is intended to become a W3C Standard. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web.
+WCAG 3 info:
+- [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/)
+```
+
+## Change 2.2 - adds 8 spaces in front
+* add this:
+```
+        ### W3C Accessibility Guidelines (WCAG) 3 Working Draft {#wcag3}
+        WCAG 3 is an early draft that is intended to become a W3C Standard. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web.
+WCAG 3 info:
+        - [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/)
+```
+
+## Change @@
 * Change xyz to:
 ```
 - [[WCAG 2 Translations]](/standards-guidelines/wcag/translations/)
@@ -39,12 +58,10 @@ _This changelog includes some Markdown and HTML syntax to facilitate updating tr
 - [[What's New in WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/)
 ```
 
-## Change 4
-* Around ```- [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)```add one link before and two links after:
-```
-- [[WCAG 2 Translations]](/standards-guidelines/wcag/translations/)
-- [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)
-- [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/), [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)
-- [[What's New in WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/)
-```
+## Change @@
+* Change xyz to:
+<br>`- [[WCAG 2 Translations]](/standards-guidelines/wcag/translations/)`
+<br>`- [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)`
+<br>`- [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/), [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)`
+<br>`- [[What's New in WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/)`
 
