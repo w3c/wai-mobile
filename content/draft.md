@@ -36,14 +36,42 @@ _This changelog includes some Markdown and HTML syntax to facilitate updating tr
 <br>`WCAG 3 info:`
 <br>`- [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/)`
 
-## Change 2.2 - 3
+## Change 2.x - 3 tildes
 * add this:
-```
+~~~
 ### W3C Accessibility Guidelines (WCAG) 3 Working Draft {#wcag3}
 WCAG 3 is an early draft that is intended to become a W3C Standard. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web.
 WCAG 3 info:
-- [```[WCAG 3 Introduction]```](/standards-guidelines/wcag/wcag3-intro/)
-```
+- [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/)
+~~~
+
+## Change 2.x - 4 tildes
+* add this:
+~~~~
+### W3C Accessibility Guidelines (WCAG) 3 Working Draft {#wcag3}
+WCAG 3 is an early draft that is intended to become a W3C Standard. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web.
+WCAG 3 info:
+- [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/)
+~~~~
+
+## Change 2.x - 4 ticks
+* add this:
+````
+### W3C Accessibility Guidelines (WCAG) 3 Working Draft {#wcag3}
+WCAG 3 is an early draft that is intended to become a W3C Standard. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web.
+WCAG 3 info:
+- [[WCAG 3 Introduction]](/standards-guidelines/wcag/wcag3-intro/)
+````
+
+## Change 2.x - 4 ticks and single in between brackets
+* add this:
+````
+### W3C Accessibility Guidelines (WCAG) 3 Working Draft {#wcag3}
+WCAG 3 is an early draft that is intended to become a W3C Standard. WCAG 3 applies to web content, apps, tools, publishing, and emerging technologies on the web.
+WCAG 3 info:
+- [`[WCAG 3 Introduction]`](/standards-guidelines/wcag/wcag3-intro/)
+````
+
 
 ## Change 2.2 - adds 8 spaces in front
 * add this:
