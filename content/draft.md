@@ -60,8 +60,8 @@ WCAG 3 info:
 
 ## Change @@
 * Change xyz to:
-<br>`- [[WCAG 2 Translations]](/standards-guidelines/wcag/translations/)`
+<br>`- [`[WCAG 2 Translations]`](/standards-guidelines/wcag/translations/)`
 <br>`- [WCAG 2.0 Standard](https://www.w3.org/TR/WCAG20/)`
 <br>`- [WCAG 2.1 Standard](https://www.w3.org/TR/WCAG21/), [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)`
-<br>`- [[What's New in WCAG 2.2 Working Draft]](/standards-guidelines/wcag/new-in-22/)`
+<br>`- [``[What's New in WCAG 2.2 Working Draft]``](/standards-guidelines/wcag/new-in-22/)`
 
