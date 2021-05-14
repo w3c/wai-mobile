@@ -8,7 +8,7 @@ description:
 
 lang: en
 last_updated: 2021-05-14
-permalink: /standards-guidelines/mobile/fr
+permalink: /standards-guidelines/mobile/
 
 changelog: /standards-guidelines/mobile/changelog/
 
