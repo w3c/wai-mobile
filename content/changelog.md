@@ -54,14 +54,14 @@ This page is designed so translators can copy and paste from this rendered chang
    <br>`permalink: /standards-guidelines/mobile/`
    <br>`changelog: /standards-guidelines/mobile/changelog/`
   * After "path:", add "content/" before "index". Be careful not to change the spacing before "path". It should be lined up with `repository:` above it.
-<br>&nbsp;&nbsp;&nbsp;`	  path: content/index.md` @@@@@@@@ check indentation stayed @@
+<br>&nbsp;&nbsp;&nbsp;`	  path: content/index.md`
   * Under  "footer: >" update the first date and add "CHANGELOG." after 2008. _Leave it in all capital letters and do not translate it._<br>
   `Updated 14 May 2021. First published January 2008. CHANGELOG.`
   
 * _[editorial]_ Under "It addresses a wide range of issues:", deleted "a" from:
 <br>`device use in different settings, such as bright sunlight`
 
-* In Summary box, under "WAI's Mobile Accessibility Task Force work includes:", change "2.1" to "2.0" in:
+* In Summary box, under "WAI's Mobile Accessibility Task Force work includes:", change "2.1" to "2" in:
 <br>`WCAG 2 Success Criteria and Techniques`
 
 * _[editorial]_ Under "More than 'Mobile'" section, changed "address" to "addresses" in:
