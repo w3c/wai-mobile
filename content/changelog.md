@@ -53,8 +53,8 @@ This page is designed so translators can copy and paste from this rendered chang
   * After permalink, add "changelog: /standards-guidelines/mobile/changelog/":
    <br>`permalink: /standards-guidelines/mobile/`
    <br>`changelog: /standards-guidelines/mobile/changelog/`
-  * After "path:", add "content/" before "index". Be careful not to change the spacing before "path":
-<br>&mbsp;&mbsp;&mbsp;`	  path: content/index.md` @@@@@@@@ check indentation stayed @@
+  * After "path:", add "content/" before "index". Be careful not to change the spacing before "path". It should be lined up with `repository:` above it.
+<br>&nbsp;&nbsp;&nbsp;`	  path: content/index.md` @@@@@@@@ check indentation stayed @@
   * Under  "footer: >" update the first date and add "CHANGELOG." after 2008. _Leave it in all capital letters and do not translate it._<br>
   `Updated 14 May 2021. First published January 2008. CHANGELOG.`
   
@@ -78,3 +78,5 @@ This page is designed so translators can copy and paste from this rendered chang
 
 * Under "## Get Involved {#involved}", the first sentence, make sure the link as double brackets:
 <br>`General information is available in [``[Participating in WAI]``](/about/participating/).`
+
+_Thanks to Tolu Adegbite for work on May 2021 updates!_
