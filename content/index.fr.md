@@ -28,7 +28,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>Date :</strong> Mise à jour : 20 novembre 2020. Première publication : janvier 2008. CHANGELOG.</p>
+  <p><strong>Date :</strong> Mise à jour : 14 mai 2021. Première publication : janvier 2008. CHANGELOG.</p>
   <p><strong>Rédactrice :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributeur : <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Développé avec la contribution du groupe de travail Éducation et Promotion (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
@@ -106,7 +106,7 @@ Si vous souhaitez recevoir des notifications sur l'avancement de notre travail c
 
 ## Engagez-vous {#involved}
 
-Des informations générales sont disponibles sur la page [Participer au sein de WAI](/about/participating/).
+Des informations générales sont disponibles sur la page [[Participer au sein de WAI]](/about/participating/).
 
 La plupart du travail de WAI effectué au sujet de l'accessibilité mobile est réalisé par [l'équipe de travail sur l’accessibilité mobile](https://www.w3.org/WAI/GL/mobile-a11y-tf/). Si vous souhaitez vous engager dans le travail mené par WAI sur l’accessibilité mobile, veuillez envoyer un e-mail soulignant vos intérêts et votre disponibilité à nos facilitatrices [Kim Patch et Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry) avec copie au personnel de WAI (wai@w3.org).
 
