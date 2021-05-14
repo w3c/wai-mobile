@@ -53,39 +53,28 @@ This page is designed so translators can copy and paste from this rendered chang
   * After permalink, add "changelog: /standards-guidelines/mobile/changelog/":
    <br>`permalink: /standards-guidelines/mobile/`
    <br>`changelog: /standards-guidelines/mobile/changelog/`
-  * After `path:`, add `content/` before `index`. Be careful not to change the spacing before `path`:
-<br>`	  path: content/index.md` @@@@@@@@ check indentation stayed @@
-  * Under  `footer: >`update the date and add "CHANGELOG." after date. _Leave it in all capital letters and do not translate it._<br>
+  * After "path:", add "content/" before "index". Be careful not to change the spacing before "path":
+<br>&mbsp;&mbsp;&mbsp;`	  path: content/index.md` @@@@@@@@ check indentation stayed @@
+  * Under  "footer: >" update the first date and add "CHANGELOG." after 2008. _Leave it in all capital letters and do not translate it._<br>
   `Updated 14 May 2021. First published January 2008. CHANGELOG.`
   
-* _[editorial]_ Under "It addresses a wide range of issues:", deleted "a" from:<br>
-`device use in different settings, such as bright sunlight`
+* _[editorial]_ Under "It addresses a wide range of issues:", deleted "a" from:
+<br>`device use in different settings, such as bright sunlight`
+
 * In Summary box, under "WAI's Mobile Accessibility Task Force work includes:", change "2.1" to "2.0" in:
-```
-WCAG 2 Success Criteria and Techniques
-```
+<br>`WCAG 2 Success Criteria and Techniques`
 
 * _[editorial]_ Under "More than 'Mobile'" section, changed "address" to "addresses" in:
-```
-It addresses a wide range of issues
-```
+<br>`It addresses a wide range of issues``
 
-* _[editorial]_ Under "It addresses a wide range of issues:", deleted "a" from:<br>
-`device use in different settings, such as bright sunlight`
+* _[editorial]_ Under "It addresses a wide range of issues:", deleted "a" from:
+<br>`device use in different settings, such as bright sunlight`
 
-* In Summary box, under "WAI's Mobile Accessibility Task Force work includes:", change "2.1" to "2.0" in:
-   ```
-   WCAG 2 Success Criteria and Techniques
-   ```
-
-* Under "W3C WAI Addresses Mobile Accessibility", in second sub-bullet, changed link from "http://www.w3.org/TR/wcag2ict/" to:<br>
-`[WCAG2ICT: Applying WCAG 2.0 to Non-Web Information and Communications Technologies](/standards-guidelines/wcag/non-web-ict/)`
+* Under "W3C WAI Addresses Mobile Accessibility", in second sub-bullet, changed link from "http://www.w3.org/TR/wcag2ict/" to:
+<br>`[WCAG2ICT: Applying WCAG 2.0 to Non-Web Information and Communications Technologies](/standards-guidelines/wcag/non-web-ict/)`
 
 * Delete paragraph:
-```
-WAI's Education and Outreach Working Group (EOWG) is developing a **Mobile Accessibility Introduction** with guidance for designers and developers. We expect it to be completed in late 2019.
-```  
+<br>`WAI's Education and Outreach Working Group (EOWG) is developing a **Mobile Accessibility Introduction** with guidance for designers and developers. We expect it to be completed in late 2019.`
 
 * Under "## Get Involved {#involved}", the first sentence, make sure the link as double brackets:
 <br>`General information is available in [``[Participating in WAI]``](/about/participating/).`
-
