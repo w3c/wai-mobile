@@ -12,6 +12,8 @@ permalink: /standards-guidelines/mobile/fr
 
 translators:
 - name: "Alexander Akel"
+contributors:
+- name: "Rémi Bétin"
 
 github:
   repository: w3c/wai-mobile
