@@ -61,8 +61,9 @@ This page is designed so translators can copy and paste from this rendered chang
 * _[editorial]_ Under "It addresses a wide range of issues:", deleted "a" from:
 <br>`device use in different settings, such as bright sunlight`
 
-* In Summary box, under "WAI's Mobile Accessibility Task Force work includes:", change "2.1" to "2" in:
+* In Summary box (which is after `{% include box.html type="start" h="2"`), in the 5th bullet (under "WAI's Mobile Accessibility Task Force work includes:"), change "2.1" to "2" in:
 <br>`WCAG 2 Success Criteria and Techniques`
+<br>**Note:** Leave 2.1 in `- WCAG 2.1, published in June 2018, ` ... `[[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)`
 
 * _[editorial]_ Under "More than 'Mobile'" section, changed "address" to "addresses" in:
 <br>`It addresses a wide range of issues``
