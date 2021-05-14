@@ -73,6 +73,7 @@ This page is designed so translators can copy and paste from this rendered chang
 
 * Under "W3C WAI Addresses Mobile Accessibility", in second sub-bullet, changed link from "http://www.w3.org/TR/wcag2ict/" to:
 <br>`[WCAG2ICT: Applying WCAG 2.0 to Non-Web Information and Communications Technologies](/standards-guidelines/wcag/non-web-ict/)`
+<br>_Tip: Can search for "ict"_
 
 * Delete paragraph:
 <br>`WAI's Education and Outreach Working Group (EOWG) is developing a **Mobile Accessibility Introduction** with guidance for designers and developers. We expect it to be completed in late 2019.`
