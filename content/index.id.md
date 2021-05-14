@@ -7,7 +7,7 @@ nav_title: "Aksesibilitas Perangkat Seluler W3C"
 description: 
 
 lang: id
-last_updated: 2021-05-09
+last_updated: 2021-05-14
 translators: 
 - name: "Fri Rasyidi"   # Replace @@ with translator name
 # - name: "@@"   # Replace @@ with name, or delete this line if not multiple translators
@@ -31,7 +31,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>Tanggal:</strong> Diperbarui 20 November 2020. Pertama kali dipublikasikan Januari 2008. CHANGELOG.</p>
+  <p><strong>Tanggal:</strong> Diperbarui 14 May 2021. Pertama kali dipublikasikan Januari 2008. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Kontributor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Dikembangkan dengan masukan dari Kelompok Kerja Edukasi dan Pendampingan (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
@@ -91,7 +91,7 @@ Membahas berbagai hal:
 
 -   Pedoman Aksesibilitas **Konten Web** ([WCAG](/standards-guidelines/wcag/)) mencakup halaman dan aplikasi web, termasuk konten yang digunakan pada perangkat seluler.
     -   Untuk mempelajari bagaimana WCAG 2.0 dapat diterapkan pada konten web, aplikasi web, aplikasi native, dan aplikasi hibrida yang menggunakan komponen dalam aplikasi native pada perangkat seluler, lihat [Aksesibilitas Perangkat Seluler: Bagaimana WCAG 2.0 dan Pedoman W3C/WAI Lainnya Diterapkan pada Perangkat Seluler](http://www.w3.org/TR/mobile-accessibility-mapping/).
-    -   Sumber informasi yang lebih umum mengenai aplikasi perangkat seluler ada di [WCAG2ICT: Menerapkan WCAG 2.0 ke Teknologi Informasi dan Komunikasi Non-Web](https://www.w3.org/WAI/standards-guidelines/wcag/non-web-ict/).
+    -   Sumber informasi yang lebih umum mengenai aplikasi perangkat seluler ada di [WCAG2ICT: Menerapkan WCAG 2.0 ke Teknologi Informasi dan Komunikasi Non-Web](/standards-guidelines/wcag/non-web-ict/).
     -   WCAG 2.1, dipublikasikan pada Juni 2018, mencakup persyaratan baru ("kriteria sukses") yang membahas aksesibilitas perangkat seluler. Hal tersebut dikenalkan melalui [[Yang Baru di WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).
 -   Pedoman Aksesibilitas **Agen Pengguna** ([UAAG](/standards-guidelines/uaag/)) mencakup browser web dan "agen pengguna" lainnya, termasuk browser pada perangkat seluler.
     -   Sebagai contoh dari bagaimana browser web yang mengikuti UAAG menguntungkan para penyandang disabilitas saat menggunakan Web pada perangkat seluler, lihat [Contoh Aksesibilitas Perangkat Seluler dari UAAG](http://www.w3.org/TR/IMPLEMENTING-UAAG20/mobile).
@@ -99,11 +99,9 @@ Membahas berbagai hal:
 -   Pedoman Aksesibilitas **Sarana Penulisan** ([ATAG](/standards-guidelines/atag/)) mencakup perangkat lunak yang digunakan untuk membuat halaman dan aplikasi web, termasuk untuk perangkat seluler.
 -   **[WAI-ARIA](/standards-guidelines/aria/)** (Aplikasi Internet Kaya yang Aksesibel) membahas cara untuk membuat konten web lebih aksesibel, terutama pada konten dinamis dan kontrol antarmuka tingkat lanjut. Berlaku pula pada aplikasi web dan saat mengakses situs web melalui perangkat seluler.
 
-<!-- WAI's Education and Outreach Working Group (EOWG) is developing a **Mobile Accessibility Introduction** with guidance for designers and developers. We expect it to be completed in late 2019. -->
-
 **W3C membahas aksesibilitas perangkat seluler.** WAI memastikan inti dari teknologi W3C mendukung aksesibilitas, termasuk hal-hal yang esensial dalam web pada perangkat seluler. Semua pekerjaan W3C ditinjau untuk aksesibilitas oleh Kelompok Kerja Arsitektur Platform Aksesibel ([APA](https://www.w3.org/WAI/APA/)) WAI.
 
-Pekerjaan W3C terkait perangkat seluler termasuk [Praktik Terbaik untuk Aplikasi Web pada Perangkat Seluler](http://www.w3.org/TR/mwabp/) dan [Praktik Terbaik untuk Web pada Perangkat Seluler](http://www.w3.org/TR/mobile-bp/). Untuk ringkasan terkait teknologi yang dikembangkan W3C untuk meningkatkan kapabilitas aplikasi web dan bagaimana penerapan spesifiknya pada perangkat seluler, lihat [Standar untuk Aplikasi Web pada Perangkat Seluler](http://www.w3.org/Mobile/mobile-web-app-state/).
+Pekerjaan W3C terkait perangkat seluler termasuk [Praktik Terbaik untuk Aplikasi Web pada Perangkat Seluler](http://www.w3.org/TR/mwabp/) dan [Praktik Terbaik untuk Web pada Perangkat Seluler](http://www.w3.org/TR/mobile-bp/). Untuk ringkasan terkait teknologi yang dikembangkan W3C untuk meningkatkan kapabilitas aplikasi web dan bagaimana penerapan spesifiknya pada perangkat seluler, lihat [Standar untuk Aplikasi Web pada Perangkat Seluler](http://www.w3.org/Mobile/mobile-web-app-state/).
 
 ## Dapatkan Pemberitahuan {#updates}
 
