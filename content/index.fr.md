@@ -23,7 +23,7 @@ path: index.fr.md
 
 feedbackmail: wai@w3.org
 footer: >
-  <p><strong>Date :</strong> Mise à jour : 3 septembre 2020. Première publication : janvier 2008.</p>
+  <p><strong>Date :</strong> Mise à jour : 3 septembre 2020. Première publication : janvier 2008. CHANGELOG.</p>
   <p><strong>Rédactrice :</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributeur : <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Développé avec la contribution du groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
@@ -34,9 +34,9 @@ ref: /standards-guidelines/mobile/
 {:/}
 
 -   **L'accessibilité mobile est traitée dans les standards/règlements existants W3C WAI**. Il n'y a pas de règles séparées spécifiques à l'accessibilité mobile.
--   Le W3C est en train de mettre à jour les exigences et conseils spécifiques à l'accessibilité mobile.
+-   W3C est en train de mettre à jour les exigences et conseils spécifiques à l'accessibilité mobile.
 -   **Les efforts de [l'équipe de travail sur l’accessibilité mobile](https://www.w3.org/WAI/GL/mobile-a11y-tf/) de WAI se portent entre autres sur :**
-    -   [Accessibilité mobile : Comment les WCAG 2.0 et les autres règles du W3C/WAI s'appliquent au mobile](http://www.w3.org/TR/mobile-accessibility-mapping/)
+    -   [Accessibilité mobile : Comment les WCAG 2.0 et les autres règles de W3C/WAI s'appliquent au mobile](http://www.w3.org/TR/mobile-accessibility-mapping/)
     -   Les critères de succès et les techniques des WCAG 2.1
     -   Intégrer l'accessibilité mobile dans les standards W3C de demain
 
@@ -52,7 +52,7 @@ ref: /standards-guidelines/mobile/
 {:/}
 
 -   TOC is created automatically.
-    {:toc}
+{:toc}
 
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
@@ -60,7 +60,7 @@ ref: /standards-guidelines/mobile/
 
 ## Plus que "Mobile" {#intro}
 
-"L'accessibilité mobile" fait référence au travail visant à rendre les sites web et applications plus accessibles aux personnes en situation de handicap lorsqu'elles utilisent des téléphones mobiles et autres appareils. Le travail de la WAI dans ce domaine traite des problèmes d'accessibilité pour les personnes utilisant une large gamme d'appareils pour interagir avec le Web, incluant :
+"L'accessibilité mobile" fait référence au travail visant à rendre les sites web et applications plus accessibles aux personnes en situation de handicap lorsqu'elles utilisent des téléphones mobiles et d'autres appareils. Le travail de WAI dans ce domaine traite des problèmes d'accessibilité pour les personnes utilisant une large gamme d'appareils pour interagir avec le Web, incluant :
 
 -   les téléphones et tablettes
 -   les télévisions numériques
@@ -91,9 +91,9 @@ Cela couvre une grande étendue de problèmes concernant :
 -   **Les Règles pour l'accessibilité des outils d'édition** ([ATAG](/standards-guidelines/atag/)) traitent des logiciels utilisés pour créer des pages Web et applications, y compris sur mobile.
 -   **[WAI-ARIA](/standards-guidelines/aria/)** (Applications Internet Riches et Accessibles) décrit la façon de rendre le contenu Web plus accessible, en particulier pour les contenus dynamiques et les composants d'interface utilisateur. Cela s'applique aux applications Web et à l'accès de sites Web avec des appareils mobiles.
 
-**W3C aborde l'accessibilité mobile.** WAI s'assure que les technologies centrales du W3C prennent en charge l'accessibilité, y compris celles qui sont essentielles pour le Web mobile. L'ensemble du travail effectué par W3C est examiné par le [groupe de travail Architectures de plateforme accessible (APA)](https://www.w3.org/WAI/APA/).
+**W3C aborde l'accessibilité mobile.** WAI s'assure que les technologies centrales de W3C prennent en charge l'accessibilité, y compris celles qui sont essentielles pour le Web mobile. L'ensemble du travail effectué par W3C est examiné par le [groupe de travail Architectures de plateforme accessible (APA)](https://www.w3.org/WAI/APA/).
 
-Le travail rendu par W3C comprend [les meilleures pratiques pour les applications Web mobiles](http://www.w3.org/TR/mwabp/) et [les meilleures pratiques pour le Web mobile](http://www.w3.org/TR/mobile-bp/). Pour un résumé des technologies développées au sein de W3C qui augmentent les capacités des applications web et comment elles s'appliquent dans un contexte mobile, voir les [Standards pour applications web sur mobile](http://www.w3.org/Mobile/mobile-web-app-state/).
+Le travail rendu par W3C sur le mobile comprend [les meilleures pratiques pour les applications Web mobiles](http://www.w3.org/TR/mwabp/) et [les meilleures pratiques pour le Web mobile](http://www.w3.org/TR/mobile-bp/). Pour un résumé des technologies développées au sein de W3C qui augmentent les capacités des applications web et comment elles s'appliquent spécifiquement dans un contexte mobile, voir les [Standards pour applications web sur mobile](http://www.w3.org/Mobile/mobile-web-app-state/).
 
 ## Recevoir nos mises à jour {#updates}
 
@@ -101,12 +101,12 @@ Si vous souhaitez recevoir des notifications sur l'avancement de notre travail c
 
 ## Engagez-vous {#involved}
 
-Des informations générales sont disponibles sur la page [Participer à la WAI](/about/participating/).
+Des informations générales sont disponibles sur la page [Participer au sein de WAI](/about/participating/).
 
 La plupart du travail de WAI effectué au sujet de l'accessibilité mobile est réalisé par [l'équipe de travail sur l’accessibilité mobile](https://www.w3.org/WAI/GL/mobile-a11y-tf/). Si vous souhaitez vous engager dans le travail mené par WAI sur l’accessibilité mobile, veuillez envoyer un e-mail soulignant vos intérêts et votre disponibilité à nos facilitatrices [Kim Patch et Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry) avec copie au personnel de WAI (wai@w3.org).
 
 ## À propos de W3C et WAI {#about}
 
-Le Consortium Web (W3C) est un consortium international où travaillent conjointement les organisations membres, une personne à plein temps et le public afin de développer des standards du Web. W3C poursuit sa mission principale : la création de standards et règlements du web pour assurer la croissance à long terme du Web. Pour en savoir plus, voir [À propos de W3C](http://www.w3.org/Consortium/).
+Le Consortium Web (W3C) est un consortium international où travaillent conjointement les organisations membres, une équipe à plein temps et le public afin de développer des standards du Web. W3C poursuit sa mission principale : la création de standards et règlements du web pour assurer la croissance à long terme du Web. Pour en savoir plus, voir [À propos de W3C](http://www.w3.org/Consortium/).
 
 L'Initiative pour l'accessibilité du Web (WAI) de W3C réunit des individus et organisations des quatre coins du globe pour développer des stratégies, des règles et des ressources pour aider à rendre le Web accessible aux personnes en situation de handicap. Pour en savoir plus, consultez le [site de WAI](http://www.w3.org/WAI/).
