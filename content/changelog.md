@@ -72,8 +72,9 @@ This page is designed so translators can copy and paste from this rendered chang
 </span>
 
 * In Summary box (which is after `{``% include box.html type="start" h="2"`), in the 5th bullet (under "WAI's Mobile Accessibility Task Force work includes:"), change "2.1" to "2" in:
-<br>**Note:** Leave 2.1 later in the page in `- WCAG 2.1, published in June 2018, ` ... `[[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)`
 <br>`WCAG 2 Success Criteria and Techniques`
+<br><br>**Note:** Leave 2.1 later in the page in:
+<br>`- WCAG 2.1, published in June 2018, ` ... `[[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/)`
 
 * <span class="editorial">_[editorial]_ Under "More than 'Mobile'" section, changed "address" to "addresses" in:
 <br>`It addresses a wide range of issues``
@@ -88,7 +89,7 @@ This page is designed so translators can copy and paste from this rendered chang
 <br>`[WCAG2ICT: Applying WCAG 2.0 to Non-Web Information and Communications Technologies](/standards-guidelines/wcag/non-web-ict/)`
 
 * Delete paragraph:
-<br>_Tip: Can search for '#2019'_
+<br>_Tip: Can search for "2019"_
 <br>`WAI's Education and Outreach Working Group (EOWG) is developing a **Mobile Accessibility Introduction** with guidance for designers and developers. We expect it to be completed in late 2019.`
 
 * Under "## Get Involved {#involved}", the first sentence, make sure the link as double brackets.
