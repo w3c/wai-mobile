@@ -28,7 +28,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>Date :</strong> Mise à jour : 3 septembre 2020. Première publication : janvier 2008. CHANGELOG.</p>
+  <p><strong>Date :</strong> Mise à jour : 20 novembre 2020. Première publication : janvier 2008. CHANGELOG.</p>
   <p><strong>Rédactrice :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributeur : <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Développé avec la contribution du groupe de travail Éducation et Promotion (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
@@ -42,7 +42,7 @@ ref: /standards-guidelines/mobile/
 -   W3C est en train de mettre à jour les exigences et conseils spécifiques à l'accessibilité mobile.
 -   **Les efforts de [l'équipe de travail sur l’accessibilité mobile](https://www.w3.org/WAI/GL/mobile-a11y-tf/) de WAI se portent entre autres sur :**
     -   [Accessibilité mobile : Comment les WCAG 2.0 et les autres règles de W3C/WAI s'appliquent au mobile](http://www.w3.org/TR/mobile-accessibility-mapping/)
-    -   Les critères de succès et les techniques des WCAG 2.1
+    -   Les critères de succès et les techniques des WCAG 2
     -   Intégrer l'accessibilité mobile dans les standards W3C de demain
 
 {::nomarkdown}
@@ -88,7 +88,7 @@ Cela couvre une grande étendue de problèmes concernant :
 
 -   **Les Règles pour l'accessibilité des contenus Web** ([WCAG](/standards-guidelines/wcag/)) traitent des pages et applications Web, incluant le contenu à destination des appareils mobiles.
     - Pour apprendre comment les WCAG 2.0 peuvent être appliquées au contenu web pour mobile, aux applications Web pour mobile, aux applications natives et aux applications hybrides utilisant des composantes Web au sein d'applications natives, voir [Accessibilité mobile : Comment les WCAG 2.0 et autres règlements W3C WAI s'appliquent au mobile](http://www.w3.org/TR/mobile-accessibility-mapping/).
-    - Une ressource plus générale qui inclut également les applications mobiles : [WCAG2ICT : Appliquer les WCAG 2.0 aux technologies de l’information et de la communication « non-web »](http://www.w3.org/TR/wcag2ict/).
+    - Une ressource plus générale qui inclut également les applications mobiles : [WCAG2ICT : Appliquer les WCAG 2.0 aux technologies de l’information et de la communication « non-web »](/standards-guidelines/wcag/non-web-ict/).
     - Les WCAG 2.1, publiées en juin 2018, contiennent de nouvelles exigences ("critères de succès") traitant de l'accessibilité mobile. Elles sont présentées dans : [[Nouveautés dans les WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).
 -   **Les Règles pour l'accessibilité des "agents utilisateurs"** ([UAAG](/standards-guidelines/uaag/)) traitent des navigateurs Web ainsi que d'autres agents utilisateurs, y compris les navigateurs sur appareils mobiles.
     -   Pour des exemples sur la manière dont des navigateurs web respectant les UAAG bénéficient aux personnes en situation de handicap qui utilisent le Web sur des appareils mobiles, consultez [Exemples d'accessibilité mobile dans le contexte des UAAG](http://www.w3.org/TR/IMPLEMENTING-UAAG20/mobile).
