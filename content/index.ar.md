@@ -8,7 +8,7 @@ nav_title: إمكانية الوصول للأجهزة المحمولة في W3C 
 description: 
 
 lang: ar
-last_updated: 2020-10-14
+last_updated: 2021-05-17
 permalink: /standards-guidelines/mobile/ar
 
 changelog: /standards-guidelines/mobile/changelog/
@@ -31,7 +31,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>التاريخ:</strong> تم النشر في يناير 2008. تم التحديث في 14 أكتوبر 2020. CHANGELOG.</p>
+  <p><strong>التاريخ:</strong> تم النشربشهر مايور 2008. تم التحديث في 14 أكتوبر 2021. CHANGELOG.</p>
   <p><strong>محرر:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. المشارك: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p> تم تطويره بمساهمة فريق التعليم و التوعية (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
@@ -44,7 +44,7 @@ ref: /standards-guidelines/mobile/
 - تقوم W3C  بتطوير متطلبات محدثة  وإرشادات اكثر تحديدا لإمكانية الوصول للأجهزة المحمولة.
 - **يحتوي مهام فريق عمل WAI [Mobile Accessibility Task Force](https://www.w3.org/WAI/GL/mobile-a11y-tf/)على ما يلي**
     -   [إمكانية الوصول للأجهزة النقالة: كيفية تطبيق إرشادات WCAG 2.0 و إرشادات W3C/WAI و إرشادات أخرى على الأجهزة المحمولة](http://www.w3.org/TR/mobile-accessibility-mapping/)
-    -  معايير و تقنيات النجاح لـ WCAG 2.1
+    -  معايير و تقنيات النجاح لـ WCAG 2
     -   دمج إمكانية الوصول للأجهزة المحمولة مع معايير W3C  المستقبلية
 
 
@@ -89,8 +89,9 @@ ref: /standards-guidelines/mobile/
 ** تتناول إمكانية الوصول الخاصة بـ WAI إمكانية الوصول عبر الأجهزة المحمولة:**
 
 -   تغطي إرشادات إمكانية الوصول **لمحتوى الموقع الالكتروني** (WCAG) صفحات الموقع الإلكتروني و البرامج تحت الويب، بما في ذلك المحتوى المستخدم على الأجهزة المحمولة.
-	-	لمعرفة كيفية تطبيق WCAG 2.0 على محتوى الويب في الأجهزة المحمولة تطبيقات الويب للهواتف، التطبيقات الاصلية، راجع [إمكانية الوصول للأجهزة النقالة: كيفية تطبيق إرشادات WCAG 2.0 و إرشادات W3C/WAI و إرشادات أخرى على الأجهزة المحمولة](http://www.w3.org/TR/mobile-accessibility-mapping/).
-	-	يعد WCAG2ICT من الموارد العامة التي تشتمل أيضا على تطبيقات الأجهزة المحمولة: [WCAG2ICT: تطبيق معايير WCAG 2.0  على تقنيات المعلومات و الاتصالات بخلاف الويب](http://www.w3.org/TR/wcag2ict/)
+	-	لمعرفة كيفية تطبيق WCAG 2.0 على محتوى الويب في الأجهزة المحمولة تطبيقات الويب للهواتف، التطبيقات الاصلية، راجع [إمكانية الوصول للأجهزة النقالة: كيفية تطبيق إرشادات WCAG 2.0 و إرشادات W3C/WAI و إرشادات أخرى على الأجهزة المحمولة]( http://www.w3.org/TR/mobile-accessibility-mapping/).
+	-	يعد WCAG2ICT من الموارد العامة التي تشتمل أيضا على تطبيقات الأجهزة المحمولة: [WCAG2ICT: تطبيق معايير WCAG 2.0  على تقنيات المعلومات و الاتصالات بخلاف الويب](/standards-guidelines/wcag/non-web-ict/)
+>>>>>>> master
 	-	تم نشر WCAG 2.1 في يونيو 2018 والذي يتضمن المتطلبات الجديدة لـ ("معايير النجاح") حيث تتناول إمكانية الوصول عبر الأجهزة المحمولة والذي تم طرحه في [[ماهو جديد في WCAG2.1]](/standards-guidelines/wcag/new-in-21/).
 -	تغطي إرشادات الوصول الخاصة بوكيل المستخدم (UAAG) متصفح الويب و غيره من **وكلاء مستخدمين** بما في ذلك متصفحات الهاتف.
 	-	للحصول على أمثلة حول كيفية إفادة متصفح الويب للأجهزة المحمولة الذي تتبع UAAG للأشخاص ذوى الاعاقة، راجع  [أمثلة إمكانية الوصول عبر الأجهزة المحمولة من UAAG](http://www.w3.org/TR/IMPLEMENTING-UAAG20/mobile)
@@ -110,7 +111,7 @@ ref: /standards-guidelines/mobile/
 
 ## شارك {#involved}
 
-المعلومات العامة متاحة في [المشاركة في WAI ](/about/participating/).
+المعلومات العامة متاحة في [[المشاركة في WAI]](/about/participating/).
 
 تتم معظم اعمال WAI المتعلقة بإتاحة المحتوى عبر الأجهزة النقالة من خلال [فريق عمل إتاحة المحتوى عبر الأجهزة النقالة](https://www.w3.org/WAI/GL/mobile-a11y-tf/). اذا كنت ترغب في المشاركة في عمل WAI بشأن إمكانية الوصول عبر الأجهزة المحمولة – يرجى ارسال بريد الكتروني يحتوي على معلومات حول اهتماماتك و الوقت المتاح لديك الى منسقي فريق عمل [كيم باتش و كايثي والبين](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry) و (wai@w3.org)
 
