@@ -29,7 +29,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>Datum:</strong> Aktualizováno 14. května 2021. Poprvé publikováno v lednu 2008. CHANGELOG.</p>
+  <p><strong>Datum:</strong> Aktualizováno 14. května 2021. Poprvé zveřejněno v lednu 2008. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.  Přispěvatel: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Vyvinuto Pracovní skupinou pro vzdělání a osvětu (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
