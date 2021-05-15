@@ -92,7 +92,7 @@ This page is designed so translators can copy and paste from this rendered chang
 <br>_Tip: Can search for "2019"_
 <br>`WAI's Education and Outreach Working Group (EOWG) is developing a **Mobile Accessibility Introduction** with guidance for designers and developers. We expect it to be completed in late 2019.`
 
-* Under "## Get Involved {#involved}", the first sentence, make sure the link as double brackets.
+* Under "## Get Involved {#involved}", the first sentence, make sure the link has double brackets.
 <br>_Tip: Can search for '#involved'_
 <br>`General information is available in [``[Participating in WAI]``](/about/participating/).`
 
