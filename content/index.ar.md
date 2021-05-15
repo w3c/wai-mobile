@@ -8,7 +8,7 @@ nav_title: إمكانية الوصول للأجهزة المحمولة في W3C 
 description: 
 
 lang: ar
-last_updated: 2020-10-14
+last_updated: 2021-05-17
 permalink: /standards-guidelines/mobile/ar
 
 changelog: /standards-guidelines/mobile/changelog/
@@ -31,7 +31,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>التاريخ:</strong> تم النشر في يناير 2008. تم التحديث في 14 أكتوبر 2020. CHANGELOG.</p>
+  <p><strong>التاريخ:</strong> تم النشربشهر مايور 2008. تم التحديث في 14 أكتوبر 2021. CHANGELOG.</p>
   <p><strong>محرر:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. المشارك: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p> تم تطويره بمساهمة فريق التعليم و التوعية (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
@@ -44,7 +44,7 @@ ref: /standards-guidelines/mobile/
 - تقوم W3C  بتطوير متطلبات محدثة  وإرشادات اكثر تحديدا لإمكانية الوصول للأجهزة المحمولة.
 - **يحتوي مهام فريق عمل WAI [Mobile Accessibility Task Force]( https://www.w3.org/WAI/GL/mobile-a11y-tf/)على ما يلي**
     -   [إمكانية الوصول للأجهزة النقالة: كيفية تطبيق إرشادات WCAG 2.0 و إرشادات W3C/WAI و إرشادات أخرى على الأجهزة المحمولة](http://www.w3.org/TR/mobile-accessibility-mapping/)
-    -  معايير و تقنيات النجاح لـ WCAG 2.1
+    -  معايير و تقنيات النجاح لـ WCAG 2
     -   دمج إمكانية الوصول للأجهزة المحمولة مع معايير W3C  المستقبلية
 
 
@@ -90,15 +90,13 @@ ref: /standards-guidelines/mobile/
 
 -   تغطي إرشادات إمكانية الوصول **لمحتوى الموقع الالكتروني** (WCAG) صفحات الموقع الإلكتروني و البرامج تحت الويب، بما في ذلك المحتوى المستخدم على الأجهزة المحمولة.
 	-	لمعرفة كيفية تطبيق WCAG 2.0 على محتوى الويب في الأجهزة المحمولة تطبيقات الويب للهواتف، التطبيقات الاصلية، راجع [إمكانية الوصول للأجهزة النقالة: كيفية تطبيق إرشادات WCAG 2.0 و إرشادات W3C/WAI و إرشادات أخرى على الأجهزة المحمولة]( http://www.w3.org/TR/mobile-accessibility-mapping/).
-	-	يعد WCAG2ICT من الموارد العامة التي تشتمل أيضا على تطبيقات الأجهزة المحمولة: [WCAG2ICT: تطبيق معايير WCAG 2.0  على تقنيات المعلومات و الاتصالات بخلاف الويب]( http://www.w3.org/TR/wcag2ict/)
-	-	تم نشر WCAG 2.1 في يونيو 2018 والذي يتضمن المتطلبات الجديدة لـ ("معايير النجاح") حيث تتناول إمكانية الوصول عبر الأجهزة المحمولة والذي تم طرحه في [[ماهو جديد في WCAG2.1]]( /standards-guidelines/wcag/new-in-21/).
+	-	يعد WCAG2ICT من الموارد العامة التي تشتمل أيضا على تطبيقات الأجهزة المحمولة: [WCAG2ICT: تطبيق معايير WCAG 2.0  على تقنيات المعلومات و الاتصالات بخلاف الويب](/standards-guidelines/wcag/non-web-ict/)
+	-	تم نشر WCAG 2.1 في يونيو 2018 والذي يتضمن المتطلبات الجديدة لـ ("معايير النجاح") حيث تتناول إمكانية الوصول عبر الأجهزة المحمولة والذي تم طرحه في [[ماهو جديد في WCAG2.1]](/standards-guidelines/wcag/new-in-21/).
 -	تغطي إرشادات الوصول الخاصة بوكيل المستخدم (UAAG) متصفح الويب و غيره من **وكلاء مستخدمين** بما في ذلك متصفحات الهاتف.
 	-	للحصول على أمثلة حول كيفية إفادة متصفح الويب للأجهزة المحمولة الذي تتبع UAAG للأشخاص ذوى الاعاقة، راجع  [أمثلة إمكانية الوصول عبر الأجهزة المحمولة من UAAG]( http://www.w3.org/TR/IMPLEMENTING-UAAG20/mobile)
 	-	لمن يرغب في ان يستكشف اكثر في هذا الموضوع، يرجى مراجعة [تطبيق UAAG  على الهواتف المحمولة]( http://www.w3.org/WAI/UA/work/wiki/Applying_UAAG_to_Mobile_Phones)
 -	يغطي دليل الوصول الى **أدوات التطوير** (ATAG) البرامج المستخدمة  لإنشاء المواقع الالكترونية و التطبيقات، بما في ذلك ما يختص بالهواتف النقالة.
 -	تحدد **WAI-ARIA (تطبيقات الانترنت الغنية التي يمكن الوصول اليها)** طرقا لتسهيل الوصول الى المحتوى الويب، لاسيما المحتوى الديناميكي و عناصر التحكم المتقدمة في واجهة المستخدم و التي تنطبق على تطبيقات الويب و الوصول الى المواقع الالكترونية باستخدام الأجهزة المحمولة.
-
-<!-- WAI's Education and Outreach Working Group (EOWG) is developing a **Mobile Accessibility Introduction** with guidance for designers and developers. We expect it to be completed in late 2019. -->
 
 **يتناول عمل W3C إمكانية الوصول للاجهزة المحمولة.** يضمن WAI  ان التقنيات الأساسية لـ W3C تدعم إمكانية الوصول ، بما في ذلك شبكة الويب للأجهزة المحمولة. تتم مراجعة اعمال w3c  للوصول الى المحتوى من قبل مجموعة عمل ([APA]( https://www.w3.org/WAI/APA/)).
 
@@ -106,11 +104,11 @@ ref: /standards-guidelines/mobile/
 
 ##  إحصل على التحديثات {#updates}
 
-اذا كنت ترغب بالحصول على إشعار لإعمال W3C WAI المستقبلية الخاصة بإمكانية الوصول للهواتف النقالة، يرجى مراجعة [إحصل على أخبار WAI ]( /news/subscribe/).
+اذا كنت ترغب بالحصول على إشعار لإعمال W3C WAI المستقبلية الخاصة بإمكانية الوصول للهواتف النقالة، يرجى مراجعة [إحصل على أخبار WAI ](/news/subscribe/).
 
 ## شارك {#involved}
 
-المعلومات العامة متاحة في [المشاركة في WAI ]( /about/participating/).
+المعلومات العامة متاحة في [[المشاركة في WAI]](/about/participating/).
 
 تتم معظم اعمال WAI المتعلقة بإتاحة المحتوى عبر الأجهزة النقالة من خلال [فريق عمل إتاحة المحتوى عبر الأجهزة النقالة]( https://www.w3.org/WAI/GL/mobile-a11y-tf/). اذا كنت ترغب في المشاركة في عمل WAI بشأن إمكانية الوصول عبر الأجهزة المحمولة – يرجى ارسال بريد الكتروني يحتوي على معلومات حول اهتماماتك و الوقت المتاح لديك الى منسقي فريق عمل [كيم باتش و كايثي والبين]( mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry) و (wai@w3.org)
 
