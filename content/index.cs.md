@@ -7,7 +7,7 @@ nav_title: "Mobilní přístupnost ve W3C"
 description: 
 
 lang: cs
-last_updated: 2020-09-16
+last_updated: 2021-05-17
 permalink: /standards-guidelines/mobile/cs
 
 changelog: /standards-guidelines/mobile/changelog/
@@ -19,7 +19,7 @@ contributors:
 
 github:
   repository: w3c/wai-mobile
-  path: content/index.cs.md
+  path: content/index.md
 
 feedbackmail: wai@w3.org
 
@@ -29,7 +29,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>Datum:</strong> Aktualizováno 1. března 2019. Poprvé zveřejněno v lednu 2008. CHANGELOG.</p>
+  <p><strong>Datum:</strong> Aktualizováno 14. května 2021. Poprvé publikováno v lednu 2008. CHANGELOG. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.  Přispěvatel: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Vyvinuto Pracovní skupinou pro vzdělání a osvětu (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
@@ -43,7 +43,7 @@ ref: /standards-guidelines/mobile/
 -   W3C vyvíjí aktualizované požadavky a konkrétnější pokyny pro mobilní přístupnost.
 -   **Práce WAI [Pracovní skupiny pro mobilní přístupnost](https://www.w3.org/WAI/GL/mobile-a11y-tf/) zahrnuje:**
     -   [Mobilní přístupnost: Jak se WCAG 2.0 a další W3C/WAI pokyny týkají mobilních zařízení](http://www.w3.org/TR/mobile-accessibility-mapping/)
-    -   WCAG 2.1 Kritéria úspěšnosti a techniky
+    -   WCAG 2 Kritéria úspěšnosti a techniky
     -   Integraci mobilní přístupnosti v budoucích standardech W3C
 
 {::nomarkdown}
@@ -89,15 +89,13 @@ ref: /standards-guidelines/mobile/
 
 -   Pokyny pro zpřístupnění **obsahu webu** ([WCAG](/standards-guidelines/wcag/)) zahrnují webové stránky a aplikace včetně obsahu používaného na mobilních zařízeních
     -   Informace o tom, jak lze WCAG 2.0 aplikovat na mobilní webový obsah, mobilní webové aplikace, nativní aplikace a hybridní aplikace pomocí webových komponent vrámci nativních aplikací najdete v části [Mobilní přístupnost: Jak se WCAG 2.0 a další pokyny W3C/WAI vztahují na mobilní zařízení](http://www.w3.org/TR/mobile-accessibility-mapping/).
-    -   Obecnějším zdrojem, který také zahrnuje mobilní aplikace, je [WCAG2ICT: Aplikování WCAG 2.0 v jiných než webových informačních a komunikačních technologiích](http://www.w3.org/TR/wcag2ict/).
+    -   Obecnějším zdrojem, který také zahrnuje mobilní aplikace, je [WCAG2ICT: Aplikování WCAG 2.0 v jiných než webových informačních a komunikačních technologiích](/standards-guidelines/wcag/non-web-ict/).
     -   WCAG 2.1, zveřejněno v červnu 2018, zahrnuje nové požadavky („kritéria úspěšnosti“) pro mobilní přístupnost. Jsou představeny v [[Co je nového ve WCAG 2.1]](/standards-guidelines/wcag/new-in-21/). 
 -   Pokyny k **uživatelským agentům** ([UAAG](/standards-guidelines/uaag/)) zahrnují webové prohlížeče a další „uživatelské agenty“ včetně mobilních prohlížečů.
     -   Příklady, jak jsou webové prohlížeče, které dodržují UAAG, prospěšné pro osoby se zdravotním postižením při používání webu na mobilních zařízeních, najdete v sekci [Příklady mobilní přístupnosti z UAAG](http://www.w3.org/TR/IMPLEMENTING-UAAG20/mobile).
     -   Pokud se chcete o této problematice dozvědět více, navštivte [Použití UAAG na mobilních telefonech](http://www.w3.org/WAI/UA/work/wiki/Applying_UAAG_to_Mobile_Phones).
 -   Pokyny pro zpřístupnění **vývojových nástrojů** ([ATAG](/standards-guidelines/atag/)) zahrnují software používaný pro tvorbu webových stránek a aplikací, včetně těch pro mobilní zařízení.
 -   **[WAI-ARIA](/standards-guidelines/aria/)** (Přístupné internetové aplikace) definuje, jak tvořit přístupnější obsah webu, zvláště dynamický obsah a pokročilé ovládací prvky uživatelského rozhraní. Vztahuje se na webové aplikace a na přístup k webových stránkám na mobilních zařízeních.
-
-Pracovní skupina WAI pro vzdělání a osvětu (EOWG) vyvíjí **Úvod do mobilní přístupnosti** s pokyny pro designéry a vývojáře. Dokončení očekáváme koncem roku 2019.
 
 **W3C řeší mobilní přístupnost.** WAI zajišťuje, že základní technologie W3C podporují přístupnost, včetně těch, které jsou nezbytné pro mobilní web. Veškerá práce W3C je kontrolována z hlediska přístupnosti WAI pracovní skupinou Accessible Platform Architectures ([APA](https://www.w3.org/WAI/APA/)).
 
