@@ -86,7 +86,7 @@ This page is designed so translators can copy and paste from this rendered chang
 
 * Under "W3C WAI Addresses Mobile Accessibility", in second sub-bullet, changed link from "http://www.w3.org/TR/wcag2ict/" to:
 <br>_Tip: Can search for "ict"_
-<br>`[WCAG2ICT: Applying WCAG 2.0 to Non-Web Information and Communications Technologies](/standards-guidelines/wcag/non-web-ict/)`
+<br>`[WCAG2ICT: Applying WCAG 2.0 to Non-Web Information and Communications Technologies](``/``standards-guidelines/wcag/non-web-ict/)`
 
 * Delete paragraph:
 <br>_Tip: Can search for "2019"_
