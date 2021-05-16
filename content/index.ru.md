@@ -31,7 +31,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>Дата:</strong> Обновлено 14 мая 2021 г. Первая публикация: январь 2008 г. CHANGELOG.</p>
+  <p><strong>Дата:</strong> Обновлено 14 мая 2021 года. Первая публикация: январь 2008 года. CHANGELOG.</p>
   <p><strong>Под редакцией:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. При участии: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Разработано при содействии Рабочей Группы по Образованию и Просвещению (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
