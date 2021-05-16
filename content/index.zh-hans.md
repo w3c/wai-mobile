@@ -28,7 +28,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>日期：</strong>于2020年5月14日更新。第一版于2018年1月发布。CHANGELOG.</p>
+  <p><strong>日期：</strong>更新于2021年5月14日。第一版发布于2018年1月。CHANGELOG.</p>
   <p><strong>编者：</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. 贡献者： <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>由教育及外展工作组 (<a href="http://www.w3.org/WAI/EO/">EOWG</a>)开发。</p>
 ref: /standards-guidelines/mobile/
