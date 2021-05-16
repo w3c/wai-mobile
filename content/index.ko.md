@@ -30,7 +30,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>날짜:</strong> 2021 년 5 월 14 일 업데이트 됨. 첫 발행일은 2008년 1월입니다. CHANGELOG.</p>
+  <p><strong>날짜:</strong> 2021년 5월 14일 업데이트됨. 첫 발행일은 2008년 1월입니다. CHANGELOG.</p>
   <p><strong>편집자:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. 기여자: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>교육과 활동관련 실무 그룹인 (<a href="http://www.w3.org/WAI/EO/">EOWG</a>)의 지원을 받아 제작되었습니다.</p>
 ref: /standards-guidelines/mobile/
