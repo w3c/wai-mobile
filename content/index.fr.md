@@ -108,7 +108,7 @@ Si vous souhaitez recevoir des notifications sur l'avancement de notre travail c
 
 Des informations générales sont disponibles sur la page [[Participer au sein de WAI]](/about/participating/).
 
-La plupart du travail de WAI effectué au sujet de l'accessibilité mobile est réalisé par [l'équipe de travail sur l’accessibilité mobile](https://www.w3.org/WAI/GL/mobile-a11y-tf/). Si vous souhaitez vous engager dans le travail mené par WAI sur l’accessibilité mobile, veuillez envoyer un e-mail soulignant vos intérêts et votre disponibilité à nos facilitatrices [Kim Patch et Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry) avec copie au personnel de WAI (wai@w3.org).
+La plupart du travail de WAI effectué au sujet de l'accessibilité mobile est réalisé par [l'équipe de travail sur l’accessibilité mobile](https://www.w3.org/WAI/GL/mobile-a11y-tf/). Si vous souhaitez vous engager dans le travail mené par WAI sur l’accessibilité mobile, veuillez envoyer un e-mail soulignant vos intérêts et votre disponibilité à nos facilitatrices [Kim Patch](mailto:Kim@redstartsystems.com) et [Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com) avec copie au personnel de WAI [Ruoxi Ran](mailto:ran@w3.org).
 
 ## À propos de W3C et WAI {#about}
 

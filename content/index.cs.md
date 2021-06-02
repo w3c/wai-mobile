@@ -109,7 +109,7 @@ Pokud chcete dostávat upozornění o budoucí práci na mobilní přístupnosti
 
 Obecné informace jsou dostupné v sekci [[Účast ve WAI]](/about/participating/).
 
-Většina práce WAI související s mobilní přístupností probíhá v [Pracovní skupině pro mobilní přístupnost](https://www.w3.org/WAI/GL/mobile-a11y-tf/). Pokud byste se chtěli podílet na práci WAI na mobilní přístupnosti, prosím pošlete e-mail s informacemi o Vašich zájmech a časové dostupnosti zprostředkovatelům pracovní skupiny [Kim Patch a Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry) a dejte do kopie (CC) zaměstnance WAI (wai@w3.org).
+Většina práce WAI související s mobilní přístupností probíhá v [Pracovní skupině pro mobilní přístupnost](https://www.w3.org/WAI/GL/mobile-a11y-tf/). Pokud byste se chtěli podílet na práci WAI na mobilní přístupnosti, prosím pošlete e-mail s informacemi o Vašich zájmech a časové dostupnosti zprostředkovatelům pracovní skupiny [Kim Patch](mailto:Kim@redstartsystems.com) a  [Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com) a dejte do kopie (CC) zaměstnance WAI [Ruoxi Ran](mailto:ran@w3.org).
 
 ## O W3C a WAI {#about}
 

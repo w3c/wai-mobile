@@ -108,7 +108,7 @@ W3C 移动端工作内容包括[移动端应用最佳实践](http://www.w3.org/T
 
 首先可以 [[加入 WAI 工作组]](/about/participating/) 了解一些基础信息。
 
-大部分 WAI 中和移动端无障碍的工作通过[移动端无障碍特别任务团](https://www.w3.org/WAI/GL/mobile-a11y-tf/)发布。如果你想要加入到 WAI 小组中参与更多的移动端无障碍规范的话，请将您的一些基本信息例如个人兴趣以及可用时间等邮件发送给工作组协调员 [Kim Patch 和 Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry) 同时抄送给 WAI 工作组成员 (wai@w3.org)。
+大部分 WAI 中和移动端无障碍的工作通过[移动端无障碍特别任务团](https://www.w3.org/WAI/GL/mobile-a11y-tf/)发布。如果你想要加入到 WAI 小组中参与更多的移动端无障碍规范的话，请将您的一些基本信息例如个人兴趣以及可用时间等邮件发送给工作组协调员[Kim Patch](mailto:Kim@redstartsystems.com)和[Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com)同时抄送给 WAI 工作组成员[冉若曦](mailto:ran@w3.org)。
 
 ## 关于 W3C 和 WAI {#about}
 
