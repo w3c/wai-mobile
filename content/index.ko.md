@@ -109,7 +109,7 @@ W3C WAI의 모바일 접근성과 관련된 앞으로의 활동을 알고자 하
 
 기본 정보들은 [[WAI에 참여하기]](/about/participating/)에서 확인 가능합니다.
 
-WAI의 모바일 접근성과 관련된 작업 대부분은 [모바일 접근성 팀](https://www.w3.org/WAI/GL/mobile-a11y-tf/)에서 진행합니다. 만약 WAI의 모바일 접근성 관련 작업에 참여하고 싶으시다면, 여러분의 관심 분야와 참여 가능 시간을 WAI 직원(wai@w3.org)을 참조에 추가하여 담당자 [Kim Patch와 Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry)에게 e-mail을 보내주세요.
+WAI의 모바일 접근성과 관련된 작업 대부분은 [모바일 접근성 팀](https://www.w3.org/WAI/GL/mobile-a11y-tf/)에서 진행합니다. 만약 WAI의 모바일 접근성 관련 작업에 참여하고 싶으시다면, 여러분의 관심 분야와 참여 가능 시간을 WAI 직원(wai@w3.org)을 참조에 추가하여 담당자 [Kim Patch와 Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,ran@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry)에게 e-mail을 보내주세요.
 
 ## W3C와 WAI에 대해 {#about}
 

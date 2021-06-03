@@ -110,7 +110,7 @@ ref: /standards-guidelines/mobile/
 
 المعلومات العامة متاحة في [[المشاركة في WAI]](/about/participating/).
 
-تتم معظم اعمال WAI المتعلقة بإتاحة المحتوى عبر الأجهزة النقالة من خلال [فريق عمل إتاحة المحتوى عبر الأجهزة النقالة]( https://www.w3.org/WAI/GL/mobile-a11y-tf/). اذا كنت ترغب في المشاركة في عمل WAI بشأن إمكانية الوصول عبر الأجهزة المحمولة – يرجى ارسال بريد الكتروني يحتوي على معلومات حول اهتماماتك و الوقت المتاح لديك الى منسقي فريق عمل [كيم باتش و كايثي والبين]( mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry) و (wai@w3.org)
+تتم معظم اعمال WAI المتعلقة بإتاحة المحتوى عبر الأجهزة النقالة من خلال [فريق عمل إتاحة المحتوى عبر الأجهزة النقالة]( https://www.w3.org/WAI/GL/mobile-a11y-tf/). اذا كنت ترغب في المشاركة في عمل WAI بشأن إمكانية الوصول عبر الأجهزة المحمولة – يرجى ارسال بريد الكتروني يحتوي على معلومات حول اهتماماتك و الوقت المتاح لديك الى منسقي فريق عمل [كيم باتش و كايثي والبين]( mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,ran@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry) و (wai@w3.org)
 
 ## حول W3C و WAI {#about}
 
