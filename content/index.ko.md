@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "W3C의 모바일 접근성"
 nav_title: "W3C의 모바일 접근성"
 
