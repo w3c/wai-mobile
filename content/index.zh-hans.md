@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "W3C 移动端无障碍"
 nav_title: "W3C 移动端无障碍"
 
