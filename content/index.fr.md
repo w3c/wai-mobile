@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "Accessibilité mobile chez W3C"
 nav_title: "Accessibilité mobile chez W3C"
 
