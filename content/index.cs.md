@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "Mobilní přístupnost ve W3C"
 nav_title: "Mobilní přístupnost ve W3C"
 
