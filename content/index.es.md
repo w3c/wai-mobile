@@ -1,13 +1,11 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "Accesibilidad Móvil en el W3C"
 nav_title: "Accesibilidad Móvil en el W3C"
 
 description: 
 
 lang: es
-last_updated: 2019-06-27
+last_updated: 2021-05-17
 permalink: /standards-guidelines/mobile/es
 
 changelog: /standards-guidelines/mobile/changelog/
@@ -30,7 +28,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>Fecha:</strong> Actualizado el 1 de Mayo de 2019. Primera publicación en Enero de 2008. CHANGELOG.</p>
+  <p><strong>Fecha:</strong> Actualizado el 14 de Mayo de 2021. Primera publicación en Enero de 2008. CHANGELOG.</p>
   <p><strong>Editora:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Colaboradora: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
   <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Divulgación (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /standards-guidelines/mobile/
@@ -44,7 +42,7 @@ ref: /standards-guidelines/mobile/
 -   El W3C está desarrollando requisitos actualizados y guías de accesibilidad móvil más específicas.
 -   **El resultado del [Grupo de Trabajo de Accesibilidad Móvil](https://www.w3.org/WAI/GL/mobile-a11y-tf/) de la WAI incluye:**
     -   [Accesibilidad Móvil: Cómo las WCAG 2.0 y otras pautas del W3C/WAI se aplican al entorno Móvil](http://www.w3.org/TR/mobile-accessibility-mapping/)
-    -   Criterios de Éxito y Técnicas WCAG 2.1
+    -   Criterios de Éxito y Técnicas WCAG 2
     -   Integrar la accesibilidad móvil en los futuros estándares W3C
 
 {::nomarkdown}
@@ -90,15 +88,13 @@ También considera una amplia gama de cuestiones:
 
 -   Las Pautas de Accesibilidad del **Contenido Web** ([WCAG](/standards-guidelines/wcag/)) consideran páginas y aplicaciones web, incluyendo el contenido utilizado en dispositivos móviles.
     -   Para aprender cómo las WCAG 2.0 pueden aplicarse al contenido web móvil, aplicaciones web móviles, aplicaciones nativas e híbridas utilizando componentes dentro de las aplicaciones nativas, acceda a [Accesibilidad Móvil: Cómo las WCAG 2.0 y Otras Pautas W3C/WAI Aplican al entorno Móvil](http://www.w3.org/TR/mobile-accessibility-mapping/).
-    -   [WCAG2ICT: Aplicar WCAG 2.0 a Información No-Web y Comunicaciones Tecnológicas](http://www.w3.org/TR/wcag2ict/) es otro recurso más general que también incluye aplicaciones móviles.
+    -   [WCAG2ICT: Aplicar WCAG 2.0 a Información No-Web y Comunicaciones Tecnológicas](/standards-guidelines/wcag/non-web-ict/) es otro recurso más general que también incluye aplicaciones móviles.
     -   Las WCAG 2.1, publicadas en junio de 2018, incluyen nuevos requisitos ("criterios de éxito") que tienen en consideración la accesibilidad móvil. Se presentan en [[Novedades de las WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).
 -   Las Pautas de Accesibilidad de **Agente de Usuario**  ([UAAG](/standards-guidelines/uaag/)) cubren los navegadores web (incluyendo navegadores móviles) y otros "agentes de usuario".
     -   Para conocer ejemplos de cómo los navegadores web que respetan las UAAG benefician a personas con discapacidad que acceden a la Web utilizando dispositivos móviles, acceda a [Ejemplos de Accesibilidad Móvil de UAAG](http://www.w3.org/TR/IMPLEMENTING-UAAG20/mobile).
     -   Para explorar más sobre los puntos críticos, acceda a [Aplicar las UAAG a Teléfonos Móviles](http://www.w3.org/WAI/UA/work/wiki/Applying_UAAG_to_Mobile_Phones).
 -   Las Pautas de Accesibilidad de **Herramientas de Autor** ([ATAG](/standards-guidelines/atag/)) cubren el software utilizado para crear páginas web y aplicaciones, incluyendo para móviles.
 -   **[WAI-ARIA](/standards-guidelines/aria/)** (Aplicaciones de Internet Enriquecidas Accesibles) define las maneras de hacer el contenido web más accesible, especialmente el contenido dinámico y los controles avanzados de la interfaz. Se aplican al acceso a sitios web y aplicaciones web con dispositivos móviles.
-
-El Grupo de Trabajo de Educación y Divulgación de la WAI (EOWG) está desarrollando la **Introducción a la Accesibilidad Móvil** con guías para diseñadores y desarrolladores. Está previsto que se complete a finales del 2019.
 
 **El W3C considera la accesibilidad móvil.** La WAI asegura que la base de las tecnologías W3C den soporte a la accesibilidad, incluyendo aquellas que son esenciales para la web móvil. Todo el trabajo del W3C es revisado por el Grupo de Trabajo de Arquitecturas de Plataforma Accesible de WAI ([APA](https://www.w3.org/WAI/APA/)).
 
@@ -110,9 +106,9 @@ Si desea recibir una notificación de futuros trabajos sobre accesibilidad móvi
 
 ## Participe {#involved}
 
-Información general disponible en [Participar en la WAI](/about/participating/).
+Información general disponible en [[Participar en la WAI]](/about/participating/).
 
-La mayor parte del trabajo de la WAI relacionado con la accesibilidad móvil se realiza a través del [Grupo de Trabajo de la Accesibilidad Móvil](https://www.w3.org/WAI/GL/mobile-a11y-tf/). Si desea participar en el trabajo de la WAI sobre accesibilidad móvil, envíe un correo electrónico con información sobre sus intereses y disponibilidad de tiempo a los moderadores del Grupo de Trabajo [Kim Patch y Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,shadi@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry) con copia al Personal de la WAI (wai@w3.org).
+La mayor parte del trabajo de la WAI relacionado con la accesibilidad móvil se realiza a través del [Grupo de Trabajo de la Accesibilidad Móvil](https://www.w3.org/WAI/GL/mobile-a11y-tf/). Si desea participar en el trabajo de la WAI sobre accesibilidad móvil, envíe un correo electrónico con información sobre sus intereses y disponibilidad de tiempo a los moderadores del Grupo de Trabajo [Kim Patch y Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,ran@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry) con copia al Personal de la WAI (wai@w3.org).
 
 ## Sobre el W3C y WAI {#about}
 
