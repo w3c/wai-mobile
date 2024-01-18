@@ -72,7 +72,7 @@ ref: /standards-guidelines/mobile/
 
 -   telepon dan tablet
 -   TV digital
--   perangkat yang dapat dikenakan seperti jam tangan pintar
+-   perangkat yang bisa dikenakan seperti jam tangan pintar
 -   perangkat pada dasbor mobil dan bagian belakang sandaran kursi pesawat
 -   perangkat pada peralatan rumah tangga
 -   perangkat "Internet untuk Segala (IoT)" lainnya
@@ -90,7 +90,7 @@ Membahas berbagai hal:
 **Standar aksesibilitas WAI terkait aksesibilitas perangkat seluler**:
 
 -   Pedoman Aksesibilitas **Konten Web** ([WCAG](/standards-guidelines/wcag/)) mencakup halaman dan aplikasi web, termasuk konten yang digunakan pada perangkat seluler.
-    -   Untuk mempelajari bagaimana WCAG 2.0 dapat diterapkan pada konten web, aplikasi web, aplikasi natif, dan aplikasi hibrida yang menggunakan komponen dalam aplikasi natif pada perangkat seluler, lihat [Aksesibilitas Perangkat Seluler: Bagaimana WCAG 2.0 dan Pedoman W3C/WAI Lainnya Diterapkan pada Perangkat Seluler](http://www.w3.org/TR/mobile-accessibility-mapping/).
+    -   Untuk mempelajari bagaimana WCAG 2.0 bisa diterapkan pada konten web, aplikasi web, aplikasi natif, dan aplikasi hibrida yang menggunakan komponen dalam aplikasi natif pada perangkat seluler, lihat [Aksesibilitas Perangkat Seluler: Bagaimana WCAG 2.0 dan Pedoman W3C/WAI Lainnya Diterapkan pada Perangkat Seluler](http://www.w3.org/TR/mobile-accessibility-mapping/).
     -   Sumber informasi yang lebih umum mengenai aplikasi perangkat seluler ada di [WCAG2ICT: Menerapkan WCAG 2.0 ke Teknologi Informasi dan Komunikasi Bukan Web](/standards-guidelines/wcag/non-web-ict/).
     -   WCAG 2.1, dipublikasikan pada Juni 2018, mencakup persyaratan baru ("kriteria sukses") yang membahas aksesibilitas perangkat seluler. Hal tersebut dikenalkan melalui [[Yang Baru di WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).
 -   Pedoman Aksesibilitas **Agen Pengguna** ([UAAG](/standards-guidelines/uaag/)) mencakup browser web dan "agen pengguna" lainnya, termasuk browser pada perangkat seluler.
