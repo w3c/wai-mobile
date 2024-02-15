@@ -5,7 +5,7 @@ nav_title: "Mobile Accessibility at W3C"
 description: 
 
 lang: en
-last_updated: 2021-05-14
+last_updated: 2024-02-15
 permalink: /standards-guidelines/mobile/
 
 changelog: /standards-guidelines/mobile/changelog/
@@ -22,9 +22,8 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>Date:</strong> Updated 14 May 2021. First published January 2008. CHANGELOG.</p>
-  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributor: <a href="http://www.w3.org/People/Brewer/">Judy Brewer</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p><strong>Date:</strong> Updated 15 February 2024. First published January 2008. CHANGELOG.</p>
+  <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
 ref: /standards-guidelines/mobile/
 ---
 
@@ -36,7 +35,7 @@ ref: /standards-guidelines/mobile/
 -   W3C is developing updated requirements and more specific guidance on mobile accessibility.
 -   **WAI's [Mobile Accessibility Task Force](https://www.w3.org/WAI/GL/mobile-a11y-tf/) work includes:**
     -   [Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile](http://www.w3.org/TR/mobile-accessibility-mapping/)
-    -   WCAG 2 Success Criteria and Techniques
+    -   WCAG 2 success criteria and techniques
     -   Integrating mobile accessibility in future W3C standards
 
 {::nomarkdown}
@@ -82,9 +81,9 @@ It addresses a wide range of issues:
 **WAI's accessibility standards address mobile accessibility**:
 
 -   **Web Content** Accessibility Guidelines ([WCAG](/standards-guidelines/wcag/)) covers web pages and web applications, including content used on mobile devices.
-    -   To learn how WCAG 2.0 can be applied to mobile web content, mobile web apps, native apps, and hybrid apps using web components inside native apps, see [Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile](http://www.w3.org/TR/mobile-accessibility-mapping/).
-    -   A more general resource that also includes mobile apps is [WCAG2ICT: Applying WCAG 2.0 to Non-Web Information and Communications Technologies](/standards-guidelines/wcag/non-web-ict/).
-    -   WCAG 2.1, published in June 2018, includes new requirements ("success criteria") addressing mobile accessibility. They are introduced in [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/).
+    -   To learn how WCAG 2 can be applied to mobile web content, mobile web apps, native apps, and hybrid apps using web components inside native apps, see [Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile](http://www.w3.org/TR/mobile-accessibility-mapping/).
+    -   A more general resource that also includes mobile apps is [WCAG2ICT: Applying WCAG 2 to Non-Web Information and Communications Technologies](/standards-guidelines/wcag/non-web-ict/).
+    -   New requirements ("success criteria") addressing mobile accessibility were added to WCAG 2.1 and WCAG 2.2. They are introduced in [[What’s New in WCAG 2.1]](/standards-guidelines/wcag/new-in-21/) and [[What’s New in WCAG 2.2]](/standards-guidelines/wcag/new-in-22/).
 -   **User Agent** Accessibility Guidelines ([UAAG](/standards-guidelines/uaag/)) covers web browsers and other “user agents”, including mobile browsers.
     -   For examples of how web browsers that follow UAAG benefit people with disabilities using the Web on mobile devices, see [Mobile Accessibility Examples from UAAG](http://www.w3.org/TR/IMPLEMENTING-UAAG20/mobile).
     -   For those wanting to explore the issues more, see [Applying UAAG to Mobile Phones](http://www.w3.org/WAI/UA/work/wiki/Applying_UAAG_to_Mobile_Phones).
@@ -103,7 +102,7 @@ If you would like to get notification of future work on mobile accessibility at 
 
 General information is available in [[Participating in WAI]](/about/participating/).
 
-Most of WAI's work related to mobile accessibility is through the [Mobile Accessibility Task Force](https://www.w3.org/WAI/GL/mobile-a11y-tf/). If you would like to be more involved in WAI's work on mobile accessibility, please send an e-mail with information about your interests and time availability to the Task Force facilitators [Kim Patch and Kathy Wahlbin](mailto:kathy@interactiveaccessibility.com,Kim@redstartsystems.com?cc=wai@w3.org,ran@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry) with CC to WAI Staff (wai@w3.org).
+Most of WAI's work related to mobile accessibility is through the [Mobile Accessibility Task Force](https://www.w3.org/WAI/GL/mobile-a11y-tf/). If you would like to be more involved in WAI's work on mobile accessibility, please send an e-mail with information about your interests and time availability to the Task Force facilitator [Jan Jaap de Groot](mailto:janjaap@abra.nl?cc=wai@w3.org,ran@w3.org,kevin@w3.org&subject=Mobile%20Accessibility%20Task%20Force%20Enquiry) with CC to WAI Staff (wai@w3.org).
 
 ## About W3C and WAI {#about}
 
