@@ -5,7 +5,7 @@ nav_title: "Mobile Accessibility at W3C"
 description: 
 
 lang: en
-last_updated: 2024-02-15
+last_updated: 2024-05-13
 permalink: /standards-guidelines/mobile/
 
 changelog: /standards-guidelines/mobile/changelog/
