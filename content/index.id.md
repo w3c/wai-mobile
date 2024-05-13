@@ -7,7 +7,7 @@ nav_title: "Aksesibilitas Perangkat Seluler W3C"
 description: 
 
 lang: id
-last_updated: 2023-11-23
+last_updated: 2024-01-18
 translators: 
 - name: "Fri Rasyidi"   # Replace @@ with translator name
 # - name: "@@"   # Replace @@ with name, or delete this line if not multiple translators
