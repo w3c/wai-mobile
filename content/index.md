@@ -22,7 +22,7 @@ feedbackmail: wai@w3.org
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>Date:</strong> Updated 15 February 2024. First published January 2008. CHANGELOG.</p>
+  <p><strong>Date:</strong> Updated 13 May 2024. First published January 2008. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
 ref: /standards-guidelines/mobile/
 ---
